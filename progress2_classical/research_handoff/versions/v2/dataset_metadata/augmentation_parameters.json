@@ -1,0 +1,2032 @@
+[
+  {
+    "filename": "augmented/normal01_aug001.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.0418280395373651,
+    "contrast": 0.9050021510445334,
+    "blur": 0.09626026142919174
+  },
+  {
+    "filename": "augmented/normal01_light_aug002.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.9169632214446468,
+    "contrast": 1.0472942428328025,
+    "blur": 0.23684482059801895
+  },
+  {
+    "filename": "augmented/normal02_aug003.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.1176538703114536,
+    "contrast": 0.9173877665258833,
+    "blur": 0.14767263688984464
+  },
+  {
+    "filename": "augmented/normal02_light_aug004.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 0.858939165831421,
+    "contrast": 0.9437275949607207,
+    "blur": 0.17687435083617684
+  },
+  {
+    "filename": "augmented/normal01_aug005.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 0.8579607909051591,
+    "contrast": 0.9397675301373297,
+    "blur": 0.2274595532228331
+  },
+  {
+    "filename": "augmented/normal01_light_aug006.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.013482444180965,
+    "contrast": 0.9440881244081394,
+    "blur": 0.20624298935656804
+  },
+  {
+    "filename": "augmented/normal02_aug007.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.0928291370033478,
+    "contrast": 0.9012997519356122,
+    "blur": 0.2820367381414827
+  },
+  {
+    "filename": "augmented/normal02_light_aug008.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.059441818496468,
+    "contrast": 0.9680501033035984,
+    "blur": 0.05441782493412354
+  },
+  {
+    "filename": "augmented/normal01_aug009.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.1371639216620344,
+    "contrast": 0.9673189090225254,
+    "blur": 0.03246104518305177
+  },
+  {
+    "filename": "augmented/normal01_light_aug010.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.8790149130500392,
+    "contrast": 1.0694988732694921,
+    "blur": 0.21130411097841187
+  },
+  {
+    "filename": "augmented/normal02_aug011.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.092138481982314,
+    "contrast": 1.0459463573387637,
+    "blur": 0.18767983200914526
+  },
+  {
+    "filename": "augmented/normal02_light_aug012.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.1419347291938111,
+    "contrast": 0.9757068754416708,
+    "blur": 0.19321422094562943
+  },
+  {
+    "filename": "augmented/normal01_aug013.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.0988213992758984,
+    "contrast": 1.0237039504728493,
+    "blur": 0.301597415108772
+  },
+  {
+    "filename": "augmented/normal01_light_aug014.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.0232056435770285,
+    "contrast": 1.0409143672429848,
+    "blur": 0.016038534279481775
+  },
+  {
+    "filename": "augmented/normal02_aug015.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 0.918369482695464,
+    "contrast": 0.9578775927204215,
+    "blur": 0.02792719192326962
+  },
+  {
+    "filename": "augmented/normal02_light_aug016.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 0.919837265908309,
+    "contrast": 0.9202002858819458,
+    "blur": 0.09729076108853224
+  },
+  {
+    "filename": "augmented/normal01_aug017.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.04070533327932,
+    "contrast": 0.9729664357940169,
+    "blur": 0.12956333849090892
+  },
+  {
+    "filename": "augmented/normal01_light_aug018.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.9128521092314463,
+    "contrast": 0.9533955644098228,
+    "blur": 0.3278291056993729
+  },
+  {
+    "filename": "augmented/normal02_aug019.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.044410615573978,
+    "contrast": 1.0218262011333976,
+    "blur": 0.05989852686933394
+  },
+  {
+    "filename": "augmented/normal02_light_aug020.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.0687380393851047,
+    "contrast": 0.9326804987523857,
+    "blur": 0.1328094046151767
+  },
+  {
+    "filename": "augmented/normal01_aug021.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.1468570051909786,
+    "contrast": 1.0279999519708187,
+    "blur": 0.19493241032112618
+  },
+  {
+    "filename": "augmented/normal01_light_aug022.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.0553842752969622,
+    "contrast": 1.0685703840379621,
+    "blur": 0.27159996904118566
+  },
+  {
+    "filename": "augmented/normal02_aug023.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 0.9187144215892313,
+    "contrast": 0.9064200487808076,
+    "blur": 0.11040856682067866
+  },
+  {
+    "filename": "augmented/normal02_light_aug024.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 0.9303222627927108,
+    "contrast": 0.9421965687172653,
+    "blur": 0.330018400017269
+  },
+  {
+    "filename": "augmented/normal01_aug025.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.1129102879418005,
+    "contrast": 0.9629355761596956,
+    "blur": 0.229403532853208
+  },
+  {
+    "filename": "augmented/normal01_light_aug026.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.9686895703181992,
+    "contrast": 1.0829095179481087,
+    "blur": 0.16059814840558956
+  },
+  {
+    "filename": "augmented/normal02_aug027.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 0.9294640499494157,
+    "contrast": 0.9493255015387967,
+    "blur": 0.19647884695710277
+  },
+  {
+    "filename": "augmented/normal02_light_aug028.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 0.9288224825568805,
+    "contrast": 1.0169171980447083,
+    "blur": 0.3142380092608669
+  },
+  {
+    "filename": "augmented/normal01_aug029.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 0.9698201515421191,
+    "contrast": 0.9438641518314567,
+    "blur": 0.3491381622732886
+  },
+  {
+    "filename": "augmented/normal01_light_aug030.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.0028578881029393,
+    "contrast": 0.9181818824347588,
+    "blur": 0.0164907313986571
+  },
+  {
+    "filename": "augmented/normal02_aug031.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 0.8828947391051977,
+    "contrast": 1.025489208340618,
+    "blur": 0.2772277775270374
+  },
+  {
+    "filename": "augmented/normal02_light_aug032.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 0.9766479900399052,
+    "contrast": 0.9127055412303915,
+    "blur": 0.13356675027728784
+  },
+  {
+    "filename": "augmented/normal01_aug033.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.1488364140720289,
+    "contrast": 1.0058228690198274,
+    "blur": 0.33987743216476635
+  },
+  {
+    "filename": "augmented/normal01_light_aug034.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.1082339106703494,
+    "contrast": 0.902296204388564,
+    "blur": 0.25225263677606813
+  },
+  {
+    "filename": "augmented/normal02_aug035.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.0545131107079724,
+    "contrast": 1.007394066081759,
+    "blur": 0.09338881648338997
+  },
+  {
+    "filename": "augmented/normal02_light_aug036.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.0422885395739423,
+    "contrast": 0.9223104347191753,
+    "blur": 0.15216783773418674
+  },
+  {
+    "filename": "augmented/normal01_aug037.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 0.9861171118987619,
+    "contrast": 1.0907631855042161,
+    "blur": 0.3065485291323679
+  },
+  {
+    "filename": "augmented/normal01_light_aug038.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.9290167152253272,
+    "contrast": 1.0001172226100596,
+    "blur": 0.06252815818554598
+  },
+  {
+    "filename": "augmented/normal02_aug039.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.1237883518034462,
+    "contrast": 1.0741037139673535,
+    "blur": 0.1044556770070215
+  },
+  {
+    "filename": "augmented/normal02_light_aug040.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.0416848484598016,
+    "contrast": 1.0217940422876346,
+    "blur": 0.05349374399237218
+  },
+  {
+    "filename": "augmented/normal01_aug041.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.0787532400225452,
+    "contrast": 1.0078758060239252,
+    "blur": 0.2725192675206954
+  },
+  {
+    "filename": "augmented/normal01_light_aug042.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.0091061016585532,
+    "contrast": 0.9001143792255887,
+    "blur": 0.11345461995163557
+  },
+  {
+    "filename": "augmented/normal02_aug043.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 0.8558430227157496,
+    "contrast": 1.0858197232529234,
+    "blur": 0.3075526572381145
+  },
+  {
+    "filename": "augmented/normal02_light_aug044.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.0994996588083539,
+    "contrast": 0.9615028250805323,
+    "blur": 0.02027380827296564
+  },
+  {
+    "filename": "augmented/normal01_aug045.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.113402879761212,
+    "contrast": 1.089389889059599,
+    "blur": 0.02997870822375757
+  },
+  {
+    "filename": "augmented/normal01_light_aug046.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.995797138994984,
+    "contrast": 0.9138425036936767,
+    "blur": 0.266210757840031
+  },
+  {
+    "filename": "augmented/normal02_aug047.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.0797503287920962,
+    "contrast": 0.9256782928999526,
+    "blur": 0.16634883233455594
+  },
+  {
+    "filename": "augmented/normal02_light_aug048.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.014941078048483,
+    "contrast": 0.9530113257880118,
+    "blur": 0.30535156437984007
+  },
+  {
+    "filename": "augmented/normal01_aug049.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 0.976941382060266,
+    "contrast": 0.9423596410884164,
+    "blur": 0.1887536310728104
+  },
+  {
+    "filename": "augmented/normal01_light_aug050.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.0689793207269929,
+    "contrast": 0.9402302126779392,
+    "blur": 0.10910070195531323
+  },
+  {
+    "filename": "augmented/normal02_aug051.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.1485448069982684,
+    "contrast": 1.0299756115278909,
+    "blur": 0.1533350293700764
+  },
+  {
+    "filename": "augmented/normal02_light_aug052.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.005272752310677,
+    "contrast": 0.9242008391736531,
+    "blur": 0.07864406796104507
+  },
+  {
+    "filename": "augmented/normal01_aug053.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 0.9514256686442366,
+    "contrast": 1.0176617436914468,
+    "blur": 0.08054015640880194
+  },
+  {
+    "filename": "augmented/normal01_light_aug054.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.9160652153354678,
+    "contrast": 0.9141986172018065,
+    "blur": 0.2208860350445346
+  },
+  {
+    "filename": "augmented/normal02_aug055.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 0.9186825351433463,
+    "contrast": 1.0810840026012256,
+    "blur": 0.3008723900888113
+  },
+  {
+    "filename": "augmented/normal02_light_aug056.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 0.871257204966596,
+    "contrast": 0.947600926873799,
+    "blur": 0.2341422224036982
+  },
+  {
+    "filename": "augmented/normal01_aug057.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 0.9142710422111315,
+    "contrast": 0.9264623697450051,
+    "blur": 0.3274299842032348
+  },
+  {
+    "filename": "augmented/normal01_light_aug058.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.0213129279975852,
+    "contrast": 0.9945342052623589,
+    "blur": 0.2746167985017637
+  },
+  {
+    "filename": "augmented/normal02_aug059.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.092249099329993,
+    "contrast": 0.9380819828723755,
+    "blur": 0.033925784980088164
+  },
+  {
+    "filename": "augmented/normal02_light_aug060.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 0.9793153547219132,
+    "contrast": 0.9847157246039842,
+    "blur": 0.16345863381283623
+  },
+  {
+    "filename": "augmented/normal01_aug061.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 1.0687227548379552,
+    "contrast": 1.0346729094586604,
+    "blur": 0.3444578239780881
+  },
+  {
+    "filename": "augmented/normal01_light_aug062.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.8795253613455877,
+    "contrast": 0.9805242564204538,
+    "blur": 0.1187559118882371
+  },
+  {
+    "filename": "augmented/normal02_aug063.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.1085017609058372,
+    "contrast": 0.9497312667840572,
+    "blur": 0.06657311795428403
+  },
+  {
+    "filename": "augmented/normal02_light_aug064.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 0.9845840643499395,
+    "contrast": 0.9843763279668809,
+    "blur": 0.09749080063342916
+  },
+  {
+    "filename": "augmented/normal01_aug065.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 0.9249419343646301,
+    "contrast": 1.0846531198552027,
+    "blur": 0.15509576076870993
+  },
+  {
+    "filename": "augmented/normal01_light_aug066.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 1.108404731428549,
+    "contrast": 1.0100650624899696,
+    "blur": 0.01770591533370843
+  },
+  {
+    "filename": "augmented/normal02_aug067.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 1.149784740523818,
+    "contrast": 1.0672055170159904,
+    "blur": 0.3391486900496629
+  },
+  {
+    "filename": "augmented/normal02_light_aug068.jpg",
+    "source_filename": "normal02_light.jpg",
+    "brightness": 1.1279100949024383,
+    "contrast": 1.0697391468828612,
+    "blur": 0.0582088887113699
+  },
+  {
+    "filename": "augmented/normal01_aug069.jpg",
+    "source_filename": "normal01.jpg",
+    "brightness": 0.9956923376352155,
+    "contrast": 0.9427494598398364,
+    "blur": 0.1403641023923084
+  },
+  {
+    "filename": "augmented/normal01_light_aug070.jpg",
+    "source_filename": "normal01_light.jpg",
+    "brightness": 0.8675906199916537,
+    "contrast": 0.9757946237953833,
+    "blur": 0.34485809532290407
+  },
+  {
+    "filename": "augmented/normal02_aug071.jpg",
+    "source_filename": "normal02.jpg",
+    "brightness": 0.9295609174516455,
+    "contrast": 1.056814120389714,
+    "blur": 0.15925292856870013
+  },
+  {
+    "filename": "augmented/labelmiring01_aug001.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9769022457970489,
+    "contrast": 1.0914635281719347,
+    "blur": 0.34839794132244983
+  },
+  {
+    "filename": "augmented/labelmiring02_aug002.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0167304970216855,
+    "contrast": 1.0436816550592654,
+    "blur": 0.054178888845922445
+  },
+  {
+    "filename": "augmented/labelmiring01_aug003.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9390123476483692,
+    "contrast": 1.093741872993832,
+    "blur": 0.20271310178568966
+  },
+  {
+    "filename": "augmented/labelmiring02_aug004.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0126585604122822,
+    "contrast": 1.049595112075813,
+    "blur": 0.020007845517619076
+  },
+  {
+    "filename": "augmented/labelmiring01_aug005.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0252532783376913,
+    "contrast": 1.0005700765839027,
+    "blur": 0.29845196221689985
+  },
+  {
+    "filename": "augmented/labelmiring02_aug006.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.8972298183818449,
+    "contrast": 1.09215578065489,
+    "blur": 0.028039012834205405
+  },
+  {
+    "filename": "augmented/labelmiring01_aug007.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9057474882942169,
+    "contrast": 1.0190070212900055,
+    "blur": 0.23632439376143155
+  },
+  {
+    "filename": "augmented/labelmiring02_aug008.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9205611685002794,
+    "contrast": 0.9239773227894249,
+    "blur": 0.3116005599453031
+  },
+  {
+    "filename": "augmented/labelmiring01_aug009.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9238646043365875,
+    "contrast": 1.0189038307066882,
+    "blur": 0.21678352861623607
+  },
+  {
+    "filename": "augmented/labelmiring02_aug010.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9757674746007616,
+    "contrast": 1.0167344578582451,
+    "blur": 0.18297395043618558
+  },
+  {
+    "filename": "augmented/labelmiring01_aug011.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.130411877320928,
+    "contrast": 0.9408518398847073,
+    "blur": 0.25066713027629517
+  },
+  {
+    "filename": "augmented/labelmiring02_aug012.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9216057857847537,
+    "contrast": 0.9791571693582509,
+    "blur": 0.23509157803598993
+  },
+  {
+    "filename": "augmented/labelmiring01_aug013.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9399991239396286,
+    "contrast": 0.9632354392543708,
+    "blur": 0.26315257234504075
+  },
+  {
+    "filename": "augmented/labelmiring02_aug014.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.8717629343479472,
+    "contrast": 0.9916571045237172,
+    "blur": 0.3494590542990548
+  },
+  {
+    "filename": "augmented/labelmiring01_aug015.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.148828934356528,
+    "contrast": 0.9146521442199266,
+    "blur": 0.07460400929346414
+  },
+  {
+    "filename": "augmented/labelmiring02_aug016.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9295601244251204,
+    "contrast": 1.086651875598742,
+    "blur": 0.3083024607902538
+  },
+  {
+    "filename": "augmented/labelmiring01_aug017.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.1137810727453628,
+    "contrast": 0.9739054177477768,
+    "blur": 0.05521139132503119
+  },
+  {
+    "filename": "augmented/labelmiring02_aug018.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.100123486391942,
+    "contrast": 1.0407079850174743,
+    "blur": 0.21408721800408254
+  },
+  {
+    "filename": "augmented/labelmiring01_aug019.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.1461699190894512,
+    "contrast": 1.0307952635421467,
+    "blur": 0.002738087503255282
+  },
+  {
+    "filename": "augmented/labelmiring02_aug020.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0951312405346385,
+    "contrast": 0.9598757504399956,
+    "blur": 0.23218605023812705
+  },
+  {
+    "filename": "augmented/labelmiring01_aug021.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.131679001178131,
+    "contrast": 0.9268582228786736,
+    "blur": 0.04040003464668577
+  },
+  {
+    "filename": "augmented/labelmiring02_aug022.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.8821107933128253,
+    "contrast": 1.0106447281769633,
+    "blur": 0.09532187431018571
+  },
+  {
+    "filename": "augmented/labelmiring01_aug023.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0314489481090672,
+    "contrast": 1.0435224374277596,
+    "blur": 0.07125905931460852
+  },
+  {
+    "filename": "augmented/labelmiring02_aug024.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0402713876655239,
+    "contrast": 0.952796780326082,
+    "blur": 0.17098614825228178
+  },
+  {
+    "filename": "augmented/labelmiring01_aug025.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.121600947323797,
+    "contrast": 1.0692207426589713,
+    "blur": 0.0323044636994567
+  },
+  {
+    "filename": "augmented/labelmiring02_aug026.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9770727317691179,
+    "contrast": 0.9553360447944503,
+    "blur": 0.001240991180723805
+  },
+  {
+    "filename": "augmented/labelmiring01_aug027.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.081335766905888,
+    "contrast": 1.027422675460276,
+    "blur": 0.09168434185202186
+  },
+  {
+    "filename": "augmented/labelmiring02_aug028.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0723692725043792,
+    "contrast": 1.0103360842252782,
+    "blur": 0.14969042164323776
+  },
+  {
+    "filename": "augmented/labelmiring01_aug029.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.852900909882502,
+    "contrast": 0.9150487720147534,
+    "blur": 0.30908723765505003
+  },
+  {
+    "filename": "augmented/labelmiring02_aug030.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.1211785714679678,
+    "contrast": 1.0091180578411045,
+    "blur": 0.29210825696010584
+  },
+  {
+    "filename": "augmented/labelmiring01_aug031.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0247528699469381,
+    "contrast": 0.9296187571134966,
+    "blur": 0.044605931748748565
+  },
+  {
+    "filename": "augmented/labelmiring02_aug032.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.94247750497904,
+    "contrast": 1.079796297748518,
+    "blur": 0.2786428067108146
+  },
+  {
+    "filename": "augmented/labelmiring01_aug033.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.1082107746002707,
+    "contrast": 1.079784927305295,
+    "blur": 0.07352678841891391
+  },
+  {
+    "filename": "augmented/labelmiring02_aug034.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9248589217668772,
+    "contrast": 0.9205587243343571,
+    "blur": 0.2730406846550049
+  },
+  {
+    "filename": "augmented/labelmiring01_aug035.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.1152404104353026,
+    "contrast": 0.9812754779664234,
+    "blur": 0.21723152855274946
+  },
+  {
+    "filename": "augmented/labelmiring02_aug036.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.8963660014996614,
+    "contrast": 1.085976203138735,
+    "blur": 0.3026119936769874
+  },
+  {
+    "filename": "augmented/labelmiring01_aug037.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.1428618098792889,
+    "contrast": 1.0621543439880794,
+    "blur": 0.3084956716321635
+  },
+  {
+    "filename": "augmented/labelmiring02_aug038.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.8574359085694566,
+    "contrast": 1.0473128943510166,
+    "blur": 0.11626491378125002
+  },
+  {
+    "filename": "augmented/labelmiring01_aug039.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.1292447658144975,
+    "contrast": 1.0604470277874278,
+    "blur": 0.3024224099313478
+  },
+  {
+    "filename": "augmented/labelmiring02_aug040.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0932247949723166,
+    "contrast": 0.9533611419188944,
+    "blur": 0.2755810781974149
+  },
+  {
+    "filename": "augmented/labelmiring01_aug041.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.8824286879208871,
+    "contrast": 1.074433356581218,
+    "blur": 0.30050763796822355
+  },
+  {
+    "filename": "augmented/labelmiring02_aug042.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9167301152636993,
+    "contrast": 1.0633173211193858,
+    "blur": 0.16110613213762973
+  },
+  {
+    "filename": "augmented/labelmiring01_aug043.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9415572602015801,
+    "contrast": 1.0590690998305725,
+    "blur": 0.07965842059271962
+  },
+  {
+    "filename": "augmented/labelmiring02_aug044.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.8570993304104354,
+    "contrast": 0.9386259576655418,
+    "blur": 0.11489168291919727
+  },
+  {
+    "filename": "augmented/labelmiring01_aug045.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.1093058826090858,
+    "contrast": 1.0933778208096723,
+    "blur": 0.097693747452655
+  },
+  {
+    "filename": "augmented/labelmiring02_aug046.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0424445215822882,
+    "contrast": 0.9799356768720122,
+    "blur": 0.34340239051939103
+  },
+  {
+    "filename": "augmented/labelmiring01_aug047.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0108647197436165,
+    "contrast": 1.0878474280649433,
+    "blur": 0.04036961314799965
+  },
+  {
+    "filename": "augmented/labelmiring02_aug048.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.1411201833066684,
+    "contrast": 0.9357135632344927,
+    "blur": 0.3368870105165444
+  },
+  {
+    "filename": "augmented/labelmiring01_aug049.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9296399087568905,
+    "contrast": 0.9216805094429422,
+    "blur": 0.1520973154976255
+  },
+  {
+    "filename": "augmented/labelmiring02_aug050.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0685635181958113,
+    "contrast": 0.9627354628389982,
+    "blur": 0.21217309865715014
+  },
+  {
+    "filename": "augmented/labelmiring01_aug051.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0034269179008435,
+    "contrast": 0.9770390866689455,
+    "blur": 0.20180581522380983
+  },
+  {
+    "filename": "augmented/labelmiring02_aug052.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9264167518415746,
+    "contrast": 1.0417570567668342,
+    "blur": 0.0005919473765203131
+  },
+  {
+    "filename": "augmented/labelmiring01_aug053.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.1276725496497249,
+    "contrast": 1.0076903994185584,
+    "blur": 0.2518004997006959
+  },
+  {
+    "filename": "augmented/labelmiring02_aug054.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0725850233518428,
+    "contrast": 1.0341257008866,
+    "blur": 0.12747751512344246
+  },
+  {
+    "filename": "augmented/labelmiring01_aug055.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.870992143337893,
+    "contrast": 1.0328475369822545,
+    "blur": 0.11557001261490873
+  },
+  {
+    "filename": "augmented/labelmiring02_aug056.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9441746935175078,
+    "contrast": 1.0696030559012673,
+    "blur": 0.2519139920548826
+  },
+  {
+    "filename": "augmented/labelmiring01_aug057.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9400966804633792,
+    "contrast": 0.9618569324417306,
+    "blur": 0.14293751801672588
+  },
+  {
+    "filename": "augmented/labelmiring02_aug058.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9707201161173173,
+    "contrast": 0.9591310405051895,
+    "blur": 0.04455072967070362
+  },
+  {
+    "filename": "augmented/labelmiring01_aug059.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9761339001318724,
+    "contrast": 1.0880727341460368,
+    "blur": 0.2370612808454565
+  },
+  {
+    "filename": "augmented/labelmiring02_aug060.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.1208416637197747,
+    "contrast": 1.0231029831902763,
+    "blur": 0.10533245609794786
+  },
+  {
+    "filename": "augmented/labelmiring01_aug061.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0143811639407094,
+    "contrast": 0.9000811879394576,
+    "blur": 0.10041980090412451
+  },
+  {
+    "filename": "augmented/labelmiring02_aug062.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9789664449969503,
+    "contrast": 1.0159969562391364,
+    "blur": 0.22914696829607506
+  },
+  {
+    "filename": "augmented/labelmiring01_aug063.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9894964570741043,
+    "contrast": 0.9884319598609616,
+    "blur": 0.0747954903461851
+  },
+  {
+    "filename": "augmented/labelmiring02_aug064.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9919558557727979,
+    "contrast": 1.080236165165651,
+    "blur": 0.27860866604437307
+  },
+  {
+    "filename": "augmented/labelmiring01_aug065.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9009074188594164,
+    "contrast": 0.9169591073450244,
+    "blur": 0.18040820347032574
+  },
+  {
+    "filename": "augmented/labelmiring02_aug066.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0398822567297388,
+    "contrast": 0.9670376510819603,
+    "blur": 0.2864482125878325
+  },
+  {
+    "filename": "augmented/labelmiring01_aug067.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0753414412622195,
+    "contrast": 1.0345591341114335,
+    "blur": 0.0786242330990509
+  },
+  {
+    "filename": "augmented/labelmiring02_aug068.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9097389798179729,
+    "contrast": 0.9048850775453653,
+    "blur": 0.08569489042742255
+  },
+  {
+    "filename": "augmented/labelmiring01_aug069.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 0.9925409032656415,
+    "contrast": 1.0699475389249464,
+    "blur": 0.025489880214599185
+  },
+  {
+    "filename": "augmented/labelmiring02_aug070.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 0.9743323032993157,
+    "contrast": 1.0259530761475428,
+    "blur": 0.06805233285889825
+  },
+  {
+    "filename": "augmented/labelmiring01_aug071.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0589062751471514,
+    "contrast": 0.9988754338020874,
+    "blur": 0.08539455385245359
+  },
+  {
+    "filename": "augmented/labelmiring02_aug072.jpg",
+    "source_filename": "labelmiring02.jpg",
+    "brightness": 1.0468174033335351,
+    "contrast": 0.9011089636276064,
+    "blur": 0.2628375668164655
+  },
+  {
+    "filename": "augmented/labelmiring01_aug073.jpg",
+    "source_filename": "labelmiring01.jpg",
+    "brightness": 1.0810138565722074,
+    "contrast": 0.9213174593127078,
+    "blur": 0.14880116787995692
+  },
+  {
+    "filename": "augmented/labelhilang01_aug001.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9027660045119594,
+    "contrast": 1.0915932084559081,
+    "blur": 0.18128521265530928
+  },
+  {
+    "filename": "augmented/labelhilang02_aug002.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.8650655155421922,
+    "contrast": 0.9498396559319944,
+    "blur": 0.2969177215730809
+  },
+  {
+    "filename": "augmented/labelhilang01_aug003.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9869385476410517,
+    "contrast": 1.060283320344453,
+    "blur": 0.23365220640522358
+  },
+  {
+    "filename": "augmented/labelhilang02_aug004.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.1463677359199342,
+    "contrast": 1.019090463693884,
+    "blur": 0.33251386295510454
+  },
+  {
+    "filename": "augmented/labelhilang01_aug005.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.117427777743131,
+    "contrast": 1.0225304645523527,
+    "blur": 0.25174588644658846
+  },
+  {
+    "filename": "augmented/labelhilang02_aug006.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0014334494473205,
+    "contrast": 1.066113833944283,
+    "blur": 0.1917551827137899
+  },
+  {
+    "filename": "augmented/labelhilang01_aug007.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.1191624309699786,
+    "contrast": 1.048731088431917,
+    "blur": 0.16613605288806865
+  },
+  {
+    "filename": "augmented/labelhilang02_aug008.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9277574645395058,
+    "contrast": 0.949447947501932,
+    "blur": 0.22318150287165467
+  },
+  {
+    "filename": "augmented/labelhilang01_aug009.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0797441052891497,
+    "contrast": 1.0042599625655966,
+    "blur": 0.21936195294362343
+  },
+  {
+    "filename": "augmented/labelhilang02_aug010.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9323792340752615,
+    "contrast": 0.9154966707729472,
+    "blur": 0.10000485280210338
+  },
+  {
+    "filename": "augmented/labelhilang01_aug011.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9315145321246553,
+    "contrast": 0.9639419136837525,
+    "blur": 0.18905327788145973
+  },
+  {
+    "filename": "augmented/labelhilang02_aug012.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.8915122184548467,
+    "contrast": 0.9462522959456374,
+    "blur": 0.24288243430466827
+  },
+  {
+    "filename": "augmented/labelhilang01_aug013.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0619257425083657,
+    "contrast": 0.9128457701427757,
+    "blur": 0.14265977938330535
+  },
+  {
+    "filename": "augmented/labelhilang02_aug014.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0127833421511745,
+    "contrast": 0.9831548468206313,
+    "blur": 0.07239203633004358
+  },
+  {
+    "filename": "augmented/labelhilang01_aug015.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9760430553320276,
+    "contrast": 1.0809676956680354,
+    "blur": 0.20442779497147878
+  },
+  {
+    "filename": "augmented/labelhilang02_aug016.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0586568959493903,
+    "contrast": 1.071346406460787,
+    "blur": 0.2679581016413243
+  },
+  {
+    "filename": "augmented/labelhilang01_aug017.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9641143086783135,
+    "contrast": 0.9011792167167987,
+    "blur": 0.12311558093513864
+  },
+  {
+    "filename": "augmented/labelhilang02_aug018.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0760425375178158,
+    "contrast": 1.070689590113821,
+    "blur": 0.3337006184645372
+  },
+  {
+    "filename": "augmented/labelhilang01_aug019.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9757063847889464,
+    "contrast": 1.0495031337956102,
+    "blur": 0.19114630840684366
+  },
+  {
+    "filename": "augmented/labelhilang02_aug020.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0309757766823724,
+    "contrast": 0.9441077388647638,
+    "blur": 0.07679757211750265
+  },
+  {
+    "filename": "augmented/labelhilang01_aug021.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9807507928139909,
+    "contrast": 0.9058049639893431,
+    "blur": 0.11764534029443384
+  },
+  {
+    "filename": "augmented/labelhilang02_aug022.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0537425655085049,
+    "contrast": 0.9808633338275274,
+    "blur": 0.057765655921228086
+  },
+  {
+    "filename": "augmented/labelhilang01_aug023.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.990217044769693,
+    "contrast": 0.9255255594562322,
+    "blur": 0.21778993634092264
+  },
+  {
+    "filename": "augmented/labelhilang02_aug024.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.8580899355715412,
+    "contrast": 0.978804051267941,
+    "blur": 0.19753719405867093
+  },
+  {
+    "filename": "augmented/labelhilang01_aug025.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.8581306139020937,
+    "contrast": 1.0285499296018672,
+    "blur": 0.04749482053069748
+  },
+  {
+    "filename": "augmented/labelhilang02_aug026.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9885095332154534,
+    "contrast": 0.9100569266977255,
+    "blur": 0.13268635246584884
+  },
+  {
+    "filename": "augmented/labelhilang01_aug027.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9134980852634444,
+    "contrast": 0.9653691609762618,
+    "blur": 0.26643039776290944
+  },
+  {
+    "filename": "augmented/labelhilang02_aug028.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9637378646692408,
+    "contrast": 1.050401964710957,
+    "blur": 0.29117349980434537
+  },
+  {
+    "filename": "augmented/labelhilang01_aug029.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9256814595347141,
+    "contrast": 0.9163812465523286,
+    "blur": 0.006784150467503741
+  },
+  {
+    "filename": "augmented/labelhilang02_aug030.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.01182571437676,
+    "contrast": 1.099981565701842,
+    "blur": 0.12248612030206436
+  },
+  {
+    "filename": "augmented/labelhilang01_aug031.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0450432279749624,
+    "contrast": 1.056246609922179,
+    "blur": 0.2281141293353613
+  },
+  {
+    "filename": "augmented/labelhilang02_aug032.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0762699612178577,
+    "contrast": 1.0899223465431978,
+    "blur": 0.06977623882688651
+  },
+  {
+    "filename": "augmented/labelhilang01_aug033.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.8561140051960997,
+    "contrast": 0.9304764691569581,
+    "blur": 0.044177341205972186
+  },
+  {
+    "filename": "augmented/labelhilang02_aug034.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0508376533859731,
+    "contrast": 1.0127939163860038,
+    "blur": 0.07628758931727626
+  },
+  {
+    "filename": "augmented/labelhilang01_aug035.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0598394913738451,
+    "contrast": 1.0533796196712482,
+    "blur": 0.058726200178730786
+  },
+  {
+    "filename": "augmented/labelhilang02_aug036.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0321742481672795,
+    "contrast": 1.0495851303910573,
+    "blur": 0.04008650498261418
+  },
+  {
+    "filename": "augmented/labelhilang01_aug037.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0957903522933254,
+    "contrast": 1.0929441546068177,
+    "blur": 0.0378345623801623
+  },
+  {
+    "filename": "augmented/labelhilang02_aug038.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.8577035276492397,
+    "contrast": 0.9623914488789391,
+    "blur": 0.23707155039764305
+  },
+  {
+    "filename": "augmented/labelhilang01_aug039.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.1374518514617686,
+    "contrast": 0.9793308883033255,
+    "blur": 0.2502551467673139
+  },
+  {
+    "filename": "augmented/labelhilang02_aug040.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.872798943352918,
+    "contrast": 1.038122883186596,
+    "blur": 0.21953483846036553
+  },
+  {
+    "filename": "augmented/labelhilang01_aug041.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.8805703916337929,
+    "contrast": 1.0544961769902448,
+    "blur": 0.2976026336810787
+  },
+  {
+    "filename": "augmented/labelhilang02_aug042.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.030123484445053,
+    "contrast": 0.9242110130134631,
+    "blur": 0.34434552303013494
+  },
+  {
+    "filename": "augmented/labelhilang01_aug043.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0847906039083057,
+    "contrast": 0.9694407530616899,
+    "blur": 0.14993230463216053
+  },
+  {
+    "filename": "augmented/labelhilang02_aug044.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9611712628654168,
+    "contrast": 1.0011921579354157,
+    "blur": 0.11943091120144911
+  },
+  {
+    "filename": "augmented/labelhilang01_aug045.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.1048726880998732,
+    "contrast": 1.0644661836180118,
+    "blur": 0.036938604725399504
+  },
+  {
+    "filename": "augmented/labelhilang02_aug046.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.1382362701643736,
+    "contrast": 1.0271170212202891,
+    "blur": 0.29004755885086037
+  },
+  {
+    "filename": "augmented/labelhilang01_aug047.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.062192593111823,
+    "contrast": 0.9870974290015355,
+    "blur": 0.25682835640468715
+  },
+  {
+    "filename": "augmented/labelhilang02_aug048.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.1396421193714232,
+    "contrast": 0.9540164792774802,
+    "blur": 0.28286972658236453
+  },
+  {
+    "filename": "augmented/labelhilang01_aug049.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0114518719344767,
+    "contrast": 0.9966995007766393,
+    "blur": 0.15245107255136298
+  },
+  {
+    "filename": "augmented/labelhilang02_aug050.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0693078642915366,
+    "contrast": 0.9536791076098451,
+    "blur": 0.2980996060067661
+  },
+  {
+    "filename": "augmented/labelhilang01_aug051.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.099219305667181,
+    "contrast": 0.9173325796111349,
+    "blur": 0.3085709144009702
+  },
+  {
+    "filename": "augmented/labelhilang02_aug052.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9231590317572868,
+    "contrast": 0.9929416933206464,
+    "blur": 0.21361609648068222
+  },
+  {
+    "filename": "augmented/labelhilang01_aug053.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9636967912384792,
+    "contrast": 0.905739999554018,
+    "blur": 0.29783349270936066
+  },
+  {
+    "filename": "augmented/labelhilang02_aug054.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9045519571473075,
+    "contrast": 0.9424239700359478,
+    "blur": 0.2792413248898338
+  },
+  {
+    "filename": "augmented/labelhilang01_aug055.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9521016529492851,
+    "contrast": 1.0760639959516451,
+    "blur": 0.24541431261627053
+  },
+  {
+    "filename": "augmented/labelhilang02_aug056.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9328805727268554,
+    "contrast": 0.9020302228877355,
+    "blur": 0.3318219022219609
+  },
+  {
+    "filename": "augmented/labelhilang01_aug057.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.8756838885874063,
+    "contrast": 1.044014932820839,
+    "blur": 0.17100224639707556
+  },
+  {
+    "filename": "augmented/labelhilang02_aug058.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 1.0774493960447398,
+    "contrast": 1.0381218678893047,
+    "blur": 0.22606601490933328
+  },
+  {
+    "filename": "augmented/labelhilang01_aug059.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9972464005235758,
+    "contrast": 1.0585865736264637,
+    "blur": 0.03256867269413508
+  },
+  {
+    "filename": "augmented/labelhilang02_aug060.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.916478920141759,
+    "contrast": 1.0383574310590404,
+    "blur": 0.10717211054553094
+  },
+  {
+    "filename": "augmented/labelhilang01_aug061.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.02446667559971,
+    "contrast": 0.994652097751905,
+    "blur": 0.18582267590101872
+  },
+  {
+    "filename": "augmented/labelhilang02_aug062.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9776511438115644,
+    "contrast": 1.049187087342722,
+    "blur": 0.11577695401857555
+  },
+  {
+    "filename": "augmented/labelhilang01_aug063.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0608564826557307,
+    "contrast": 0.9541832853952393,
+    "blur": 0.08799128667032952
+  },
+  {
+    "filename": "augmented/labelhilang02_aug064.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.8861967654256917,
+    "contrast": 0.9385168586903035,
+    "blur": 0.04184415943926849
+  },
+  {
+    "filename": "augmented/labelhilang01_aug065.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.010759189615125,
+    "contrast": 1.0524379218968207,
+    "blur": 0.06480244485318169
+  },
+  {
+    "filename": "augmented/labelhilang02_aug066.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9149153919635816,
+    "contrast": 0.9968397174425419,
+    "blur": 0.253604750382568
+  },
+  {
+    "filename": "augmented/labelhilang01_aug067.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.1429821068649169,
+    "contrast": 1.0049273738217217,
+    "blur": 0.09904954614623425
+  },
+  {
+    "filename": "augmented/labelhilang02_aug068.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.8801578324272372,
+    "contrast": 0.9388235156182148,
+    "blur": 0.07961910721889415
+  },
+  {
+    "filename": "augmented/labelhilang01_aug069.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.9038324631056209,
+    "contrast": 0.9028296734512128,
+    "blur": 0.18694728124368215
+  },
+  {
+    "filename": "augmented/labelhilang02_aug070.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9322933980349801,
+    "contrast": 1.0948589862205478,
+    "blur": 0.1936756383795129
+  },
+  {
+    "filename": "augmented/labelhilang01_aug071.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 1.0592252178730583,
+    "contrast": 0.9252558985916818,
+    "blur": 0.3039614190420304
+  },
+  {
+    "filename": "augmented/labelhilang02_aug072.jpg",
+    "source_filename": "labelhilang02.jpg",
+    "brightness": 0.9972636083571336,
+    "contrast": 1.074543946999707,
+    "blur": 0.20092247686921627
+  },
+  {
+    "filename": "augmented/labelhilang01_aug073.jpg",
+    "source_filename": "labelhilang01.jpg",
+    "brightness": 0.990819083479153,
+    "contrast": 0.9880937596272021,
+    "blur": 0.0645272846365286
+  },
+  {
+    "filename": "augmented/penyok01_aug001.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.8654130151550733,
+    "contrast": 1.0882127193536206,
+    "blur": 0.16720521554299067
+  },
+  {
+    "filename": "augmented/penyok02_aug002.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.096634693589829,
+    "contrast": 0.9801414884503881,
+    "blur": 0.025928759589473924
+  },
+  {
+    "filename": "augmented/penyok01_aug003.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.0388337120855995,
+    "contrast": 0.9107218148585067,
+    "blur": 0.0522191545657793
+  },
+  {
+    "filename": "augmented/penyok02_aug004.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0188518791253691,
+    "contrast": 0.9607671023684455,
+    "blur": 0.347871342948577
+  },
+  {
+    "filename": "augmented/penyok01_aug005.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.8855354686634385,
+    "contrast": 1.052888689065239,
+    "blur": 0.21221117793503697
+  },
+  {
+    "filename": "augmented/penyok02_aug006.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0872222489530257,
+    "contrast": 0.945137427413007,
+    "blur": 0.18290038729557623
+  },
+  {
+    "filename": "augmented/penyok01_aug007.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9851543394666262,
+    "contrast": 0.9885442008038657,
+    "blur": 0.301058333039163
+  },
+  {
+    "filename": "augmented/penyok02_aug008.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.1470093781400392,
+    "contrast": 0.9610760488638721,
+    "blur": 0.21735956237525197
+  },
+  {
+    "filename": "augmented/penyok01_aug009.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.032889273673539,
+    "contrast": 1.048017861096909,
+    "blur": 0.3316565701138823
+  },
+  {
+    "filename": "augmented/penyok02_aug010.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9123363717470654,
+    "contrast": 0.9422050390610787,
+    "blur": 0.2311498480172128
+  },
+  {
+    "filename": "augmented/penyok01_aug011.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.8971171280142631,
+    "contrast": 0.934762709665287,
+    "blur": 0.026272704115408774
+  },
+  {
+    "filename": "augmented/penyok02_aug012.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.8508027167808657,
+    "contrast": 0.9901007409235405,
+    "blur": 0.20783391829184714
+  },
+  {
+    "filename": "augmented/penyok01_aug013.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9373777867093083,
+    "contrast": 0.9462952469112053,
+    "blur": 0.24743454045766164
+  },
+  {
+    "filename": "augmented/penyok02_aug014.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.060896267428115,
+    "contrast": 0.9908062652814087,
+    "blur": 0.24058472202493494
+  },
+  {
+    "filename": "augmented/penyok01_aug015.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.1271733133447646,
+    "contrast": 1.0575656053293463,
+    "blur": 0.21877030250747764
+  },
+  {
+    "filename": "augmented/penyok02_aug016.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0483549128560103,
+    "contrast": 1.0867336916891028,
+    "blur": 0.14879863813647407
+  },
+  {
+    "filename": "augmented/penyok01_aug017.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.0133687136131735,
+    "contrast": 1.0295269446804962,
+    "blur": 0.3179440058244121
+  },
+  {
+    "filename": "augmented/penyok02_aug018.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0979893478950178,
+    "contrast": 0.9142819673711629,
+    "blur": 0.05807297622725363
+  },
+  {
+    "filename": "augmented/penyok01_aug019.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9422835437842697,
+    "contrast": 1.0497915444139247,
+    "blur": 0.19922246726168233
+  },
+  {
+    "filename": "augmented/penyok02_aug020.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9365831764917525,
+    "contrast": 0.9248707316349417,
+    "blur": 0.24103729692423279
+  },
+  {
+    "filename": "augmented/penyok01_aug021.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.0599201054927152,
+    "contrast": 1.0885352481488082,
+    "blur": 0.17516526199127394
+  },
+  {
+    "filename": "augmented/penyok02_aug022.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9981385658035252,
+    "contrast": 0.9160883703798602,
+    "blur": 0.013951274464264567
+  },
+  {
+    "filename": "augmented/penyok01_aug023.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9796085992482317,
+    "contrast": 0.96446431667166,
+    "blur": 0.08762876584420136
+  },
+  {
+    "filename": "augmented/penyok02_aug024.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.8773980659892955,
+    "contrast": 1.0923822204385674,
+    "blur": 0.29258551486716344
+  },
+  {
+    "filename": "augmented/penyok01_aug025.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.022559732765979,
+    "contrast": 1.0901572555612706,
+    "blur": 0.34985034590710795
+  },
+  {
+    "filename": "augmented/penyok02_aug026.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0516844752909718,
+    "contrast": 0.9539022051934108,
+    "blur": 0.01408108560061566
+  },
+  {
+    "filename": "augmented/penyok01_aug027.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.076880649123767,
+    "contrast": 0.9941001646503268,
+    "blur": 0.2280283213017902
+  },
+  {
+    "filename": "augmented/penyok02_aug028.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.1248218363780302,
+    "contrast": 0.9362978294446253,
+    "blur": 0.204865368847249
+  },
+  {
+    "filename": "augmented/penyok01_aug029.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.040435415836226,
+    "contrast": 0.9983451604382028,
+    "blur": 0.031934842202839514
+  },
+  {
+    "filename": "augmented/penyok02_aug030.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9543883168883951,
+    "contrast": 0.9666616787330184,
+    "blur": 0.23454672833241488
+  },
+  {
+    "filename": "augmented/penyok01_aug031.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.1073199283201056,
+    "contrast": 0.9659607327157931,
+    "blur": 0.24278578589420136
+  },
+  {
+    "filename": "augmented/penyok02_aug032.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9364653386084367,
+    "contrast": 1.0890387079126422,
+    "blur": 0.2847481121582904
+  },
+  {
+    "filename": "augmented/penyok01_aug033.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.0150289826915349,
+    "contrast": 0.990965181720346,
+    "blur": 0.11008100500955877
+  },
+  {
+    "filename": "augmented/penyok02_aug034.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9469821358827983,
+    "contrast": 1.0940369453617156,
+    "blur": 0.14146126995026095
+  },
+  {
+    "filename": "augmented/penyok01_aug035.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.0043788756987315,
+    "contrast": 1.097623842956351,
+    "blur": 0.23018113526909512
+  },
+  {
+    "filename": "augmented/penyok02_aug036.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0127780783071585,
+    "contrast": 0.9826495141598643,
+    "blur": 0.06565388948808448
+  },
+  {
+    "filename": "augmented/penyok01_aug037.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9585338077455026,
+    "contrast": 1.051288630811115,
+    "blur": 0.21889305975075313
+  },
+  {
+    "filename": "augmented/penyok02_aug038.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.077997160818305,
+    "contrast": 0.9407116476700548,
+    "blur": 0.19222687367986607
+  },
+  {
+    "filename": "augmented/penyok01_aug039.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.1283018282533344,
+    "contrast": 0.9876232190144757,
+    "blur": 0.24438751019276028
+  },
+  {
+    "filename": "augmented/penyok02_aug040.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.8864278250087859,
+    "contrast": 1.094629363164339,
+    "blur": 0.21310508347868773
+  },
+  {
+    "filename": "augmented/penyok01_aug041.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9217892386982951,
+    "contrast": 0.9316756327610465,
+    "blur": 0.19279365245093447
+  },
+  {
+    "filename": "augmented/penyok02_aug042.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0156754227161198,
+    "contrast": 0.9186418402563046,
+    "blur": 0.34728999878832684
+  },
+  {
+    "filename": "augmented/penyok01_aug043.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.1238789635452502,
+    "contrast": 0.9922895788357567,
+    "blur": 0.04111315218134514
+  },
+  {
+    "filename": "augmented/penyok02_aug044.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0996429521306703,
+    "contrast": 0.9996751009414391,
+    "blur": 0.2508111640971269
+  },
+  {
+    "filename": "augmented/penyok01_aug045.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.0026616045208534,
+    "contrast": 0.9546849793426548,
+    "blur": 0.292153380951843
+  },
+  {
+    "filename": "augmented/penyok02_aug046.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.1440733897810125,
+    "contrast": 0.9487461812150277,
+    "blur": 0.19294277690816436
+  },
+  {
+    "filename": "augmented/penyok01_aug047.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9650758039741449,
+    "contrast": 1.0843736299863125,
+    "blur": 0.17788431205751287
+  },
+  {
+    "filename": "augmented/penyok02_aug048.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.1137978765439427,
+    "contrast": 1.0728053868857177,
+    "blur": 0.09668659098771433
+  },
+  {
+    "filename": "augmented/penyok01_aug049.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.087001854600934,
+    "contrast": 0.9829884847102691,
+    "blur": 0.326986937788882
+  },
+  {
+    "filename": "augmented/penyok02_aug050.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0023213027428968,
+    "contrast": 1.0641098946371157,
+    "blur": 0.09899364414898931
+  },
+  {
+    "filename": "augmented/penyok01_aug051.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9395667549315301,
+    "contrast": 1.0173875444828322,
+    "blur": 0.3496158166302685
+  },
+  {
+    "filename": "augmented/penyok02_aug052.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9968921039967102,
+    "contrast": 0.9297190836765579,
+    "blur": 0.18850320219635577
+  },
+  {
+    "filename": "augmented/penyok01_aug053.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9535371825079022,
+    "contrast": 1.0103834834141623,
+    "blur": 0.19020052203553556
+  },
+  {
+    "filename": "augmented/penyok02_aug054.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9866033850599503,
+    "contrast": 0.9643554700458076,
+    "blur": 0.06602833079748689
+  },
+  {
+    "filename": "augmented/penyok01_aug055.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.0592495282861714,
+    "contrast": 1.0143595283969802,
+    "blur": 0.08174685612026258
+  },
+  {
+    "filename": "augmented/penyok02_aug056.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0826633425297776,
+    "contrast": 0.9087294598194604,
+    "blur": 0.26064680304781856
+  },
+  {
+    "filename": "augmented/penyok01_aug057.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.0615683643075007,
+    "contrast": 1.0622817805129754,
+    "blur": 0.1351275633718438
+  },
+  {
+    "filename": "augmented/penyok02_aug058.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0491066488453604,
+    "contrast": 1.064149510341911,
+    "blur": 0.34328634853092477
+  },
+  {
+    "filename": "augmented/penyok01_aug059.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.998598594884927,
+    "contrast": 0.9074039222691153,
+    "blur": 0.17580190254653805
+  },
+  {
+    "filename": "augmented/penyok02_aug060.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.02705412879287,
+    "contrast": 1.0739400626724431,
+    "blur": 0.3059666309190079
+  },
+  {
+    "filename": "augmented/penyok01_aug061.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9820918629312031,
+    "contrast": 1.0051902173615124,
+    "blur": 0.15992482606598477
+  },
+  {
+    "filename": "augmented/penyok02_aug062.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 1.0667331482711928,
+    "contrast": 0.9819957239492729,
+    "blur": 0.2291734642497068
+  },
+  {
+    "filename": "augmented/penyok01_aug063.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.8963083656314647,
+    "contrast": 0.9938981201969465,
+    "blur": 0.339221270700976
+  },
+  {
+    "filename": "augmented/penyok02_aug064.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9515683702154295,
+    "contrast": 1.0385409197173765,
+    "blur": 0.22744282840274538
+  },
+  {
+    "filename": "augmented/penyok01_aug065.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.1055295877052074,
+    "contrast": 1.0704682673131787,
+    "blur": 0.3007697644588933
+  },
+  {
+    "filename": "augmented/penyok02_aug066.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.9640028192567964,
+    "contrast": 0.96333223078668,
+    "blur": 0.25155109882804405
+  },
+  {
+    "filename": "augmented/penyok01_aug067.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.077820542800309,
+    "contrast": 1.0744766034797073,
+    "blur": 0.012564684943190301
+  },
+  {
+    "filename": "augmented/penyok02_aug068.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.8705262241544655,
+    "contrast": 1.0262322033709281,
+    "blur": 0.32232518457310383
+  },
+  {
+    "filename": "augmented/penyok01_aug069.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 1.1492277768868644,
+    "contrast": 1.0493532733475854,
+    "blur": 0.15189001517309397
+  },
+  {
+    "filename": "augmented/penyok02_aug070.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.8795329379149593,
+    "contrast": 1.0267495657561583,
+    "blur": 0.3054027314124817
+  },
+  {
+    "filename": "augmented/penyok01_aug071.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9831035654985116,
+    "contrast": 1.038800232558647,
+    "blur": 0.3161984217176701
+  },
+  {
+    "filename": "augmented/penyok02_aug072.jpg",
+    "source_filename": "penyok02.jpg",
+    "brightness": 0.8637972906031638,
+    "contrast": 1.0592286930324424,
+    "blur": 0.10267872158782307
+  },
+  {
+    "filename": "augmented/penyok01_aug073.jpg",
+    "source_filename": "penyok01.jpg",
+    "brightness": 0.9624523269325944,
+    "contrast": 0.9291139591398797,
+    "blur": 0.185908211352066
+  }
+]

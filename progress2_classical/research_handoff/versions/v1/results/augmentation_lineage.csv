@@ -1,0 +1,11 @@
+label,source_filename,bottle_id,total_train_rows,augmented_rows
+label_hilang,labelhilang01.jpg,01,38,37
+label_hilang,labelhilang02.jpg,02,37,36
+label_miring,labelmiring01.jpg,01,38,37
+label_miring,labelmiring02.jpg,02,37,36
+normal,normal01.jpg,01,19,18
+normal,normal01_light.jpg,01,19,18
+normal,normal02.jpg,02,19,18
+normal,normal02_light.jpg,02,18,17
+penyok,penyok01.jpg,01,38,37
+penyok,penyok02.jpg,02,37,36

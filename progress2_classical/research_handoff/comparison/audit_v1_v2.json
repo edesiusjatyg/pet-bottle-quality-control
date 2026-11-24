@@ -1,0 +1,81 @@
+{
+  "audit_scope": "Read-only comparison of comvis_dataset_ready_v1/dataset_prep and comvis_dataset_v2/dataset_prep; no test image viewing or model inspection.",
+  "dataset_comparison": {
+    "primary_image_filename_sets_match": true,
+    "only_primary_image_sha256_changes": [
+      "img/penyok01.jpg",
+      "img/penyok03.jpg"
+    ],
+    "revision_manifest_old_and_new_hashes_match_files": true,
+    "csv_rows_changed": {
+      "metadata_original.csv": [
+        "img/penyok01.jpg",
+        "img/penyok03.jpg"
+      ],
+      "train_original.csv": [
+        "img/penyok01.jpg"
+      ],
+      "train.csv": {
+        "count": 38,
+        "detail": "penyok01 original plus 37 odd-numbered penyok01 descendants"
+      },
+      "val.csv": [
+        "img/penyok03.jpg"
+      ],
+      "test.csv": []
+    },
+    "test_csv_byte_identical": true,
+    "augmented_file_sets_match": true,
+    "only_augmented_byte_changes": "penyok01_aug001.jpg through penyok01_aug073.jpg, odd indices (37 files)",
+    "augmentation_parameters_json_byte_identical": true
+  },
+  "dataset_consistency_checks": {
+    "counts": {
+      "train_original": 10,
+      "train": 300,
+      "validation": 5,
+      "test": 5,
+      "augmented": 290
+    },
+    "train_class_counts": {
+      "normal": 75,
+      "label_miring": 75,
+      "label_hilang": 75,
+      "penyok": 75
+    },
+    "bottle_ids_by_split": {
+      "train": [
+        "01",
+        "02"
+      ],
+      "validation": [
+        "03"
+      ],
+      "test": [
+        "04"
+      ]
+    },
+    "metadata_matches_20_primary_rows": true,
+    "all_310_train_validation_test_hashes_unique": true,
+    "all_csv_manifest_checksums_match_files": true,
+    "augmentation_parameter_files_match_train_descendants": true,
+    "augmentation_lineage_metadata_errors": 0,
+    "random_resplit_present": false
+  },
+  "augmentation_reproduction": {
+    "method": "Loaded v2 img/penyok01.jpg in memory, applied each recorded brightness, contrast, and Gaussian blur parameter, JPEG-encoded at quality 95 to BytesIO, then compared SHA-256 with the existing descendant file.",
+    "descendants_checked": 37,
+    "byte_exact_matches": 37,
+    "mismatches": 0,
+    "pillow_version": "11.1.0",
+    "new_dataset_files_written": 0
+  },
+  "code_risks": [
+    "Current v2 notebook checks dataset_identity version and raises if the selected root is not v2. However, find_dataset_root recursively sorts Kaggle dataset_prep paths and may select v1 first when both versions are attached; set AQUVIVA_DATASET_ROOT explicitly to the v2 dataset_prep path in that case.",
+    "The optional commented Kaggle pip-install example still uses the example slug /kaggle/input/progress2-classical/requirements.txt; replace it with the mounted code dataset path if installation is needed."
+  ],
+  "code_review_notes": [
+    "Current builder and generated notebook explicitly describe the retakes, warn that v1/v2 score differences do not prove generalization, and no longer claim the v2 dents remain subtle or are only upper-right.",
+    "Kaggle code discovery currently searches parents of /kaggle/input/**/experiment.py, so it can find a code dataset that exposes experiment.py at its mounted root."
+  ]
+}

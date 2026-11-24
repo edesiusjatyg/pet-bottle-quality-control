@@ -1,0 +1,5 @@
+model,data_role,sample_count,accuracy,macro_f1
+svm,train_original,10,1.0,1.0
+svm,train_including_offline_augmentation,300,1.0,1.0
+xgboost,train_original,10,1.0,1.0
+xgboost,train_including_offline_augmentation,300,1.0,1.0

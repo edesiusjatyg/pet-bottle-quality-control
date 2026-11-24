@@ -1,0 +1,3 @@
+model,selected_variant,selected_parameters,validation_macro_f1,validation_accuracy,correct_validation_photos,validation_photo_count
+svm,center_roi__clahe,"{""C"": 0.1, ""class_weight"": ""balanced"", ""gamma"": ""scale"", ""kernel"": ""linear""}",0.625,0.6,3,5
+xgboost,center_roi__gray,"{""learning_rate"": 0.05, ""max_depth"": 2, ""n_estimators"": 80}",0.625,0.6,3,5

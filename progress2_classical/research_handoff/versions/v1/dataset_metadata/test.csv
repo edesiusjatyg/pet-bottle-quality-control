@@ -1,0 +1,6 @@
+filename,label,bottle_id,split,source_filename,is_augmented,view_id,qc_status,qc_note,width,height,sha256,drive_file_id
+img/labelhilang04.jpg,label_hilang,04,test,labelhilang04.jpg,0,standard,visual_checked,,3652,3652,c29997460cbfb9a40a423b28d3071828ebe9070cd9960929241811b562b37461,1JtGiMFlDi4N_1YStb8o4OUjrrMCEOdKL
+img/labelmiring04.jpg,label_miring,04,test,labelmiring04.jpg,0,standard,visual_checked,Perbedaan sisi label antara normal dan label miring perlu dikontrol pada akuisisi tambahan.,3297,3297,f8fe48e20be92b68d2e2131a2f5550accc3bb0fe167930c90130552272051fd2,17x58Rdqzs-S3EzWkV3j69z7rShkTb83Y
+img/normal04.jpg,normal,04,test,normal04.jpg,0,standard,visual_checked,Perbedaan sisi label antara normal dan label miring perlu dikontrol pada akuisisi tambahan.,2459,2459,6caedb7ebddaf55ab1ca09389c176e730edebd3dea8b66293e0b1b0f13d4c535,1Hu-EgDV8yaF-lEOWY-NEE2gvqGDLGrfL
+img/normal04_light.jpg,normal,04,test,normal04_light.jpg,0,light,visual_checked,Perbedaan sisi label antara normal dan label miring perlu dikontrol pada akuisisi tambahan.,3240,3240,12686f1bc7a1e581a4b2b1fe324108289a0592e07088fe92e828f83e0fcf40a7,1rhG8DGdOimqSgDGJm2lwPbUUeizi3eGX
+img/penyok04.jpg,penyok,04,test,penyok04.jpg,0,standard,visual_checked,,3716,3716,02f1b3688bbae416a612feee548a6a4747422ad977585f0d142b8160c4bd6a8c,1WOrDRsvQ7nbJA3LASx8eZCNPK7RPCFW4

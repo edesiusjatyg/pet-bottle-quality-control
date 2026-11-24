@@ -1,0 +1,11 @@
+model,source_filename,true_label,predicted_label_v1,correct_v1,predicted_label_v2,correct_v2
+svm,labelhilang03.jpg,label_hilang,label_hilang,True,label_hilang,True
+svm,labelmiring03.jpg,label_miring,label_miring,True,label_miring,True
+svm,normal03.jpg,normal,penyok,False,label_miring,False
+svm,normal03_light.jpg,normal,penyok,False,label_miring,False
+svm,penyok03.jpg,penyok,penyok,True,normal,False
+xgboost,labelhilang03.jpg,label_hilang,label_hilang,True,label_hilang,True
+xgboost,labelmiring03.jpg,label_miring,label_miring,True,label_miring,True
+xgboost,normal03.jpg,normal,penyok,False,label_miring,False
+xgboost,normal03_light.jpg,normal,penyok,False,label_miring,False
+xgboost,penyok03.jpg,penyok,penyok,True,label_miring,False

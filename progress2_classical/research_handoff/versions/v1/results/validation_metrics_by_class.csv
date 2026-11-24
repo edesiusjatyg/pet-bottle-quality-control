@@ -1,0 +1,9 @@
+model,class,precision,recall,f1,support,macro_f1,accuracy
+svm,normal,0.0,0.0,0.0,2,0.625,0.6
+svm,label_miring,1.0,1.0,1.0,1,0.625,0.6
+svm,label_hilang,1.0,1.0,1.0,1,0.625,0.6
+svm,penyok,0.3333333333333333,1.0,0.5,1,0.625,0.6
+xgboost,normal,0.0,0.0,0.0,2,0.625,0.6
+xgboost,label_miring,1.0,1.0,1.0,1,0.625,0.6
+xgboost,label_hilang,1.0,1.0,1.0,1,0.625,0.6
+xgboost,penyok,0.3333333333333333,1.0,0.5,1,0.625,0.6

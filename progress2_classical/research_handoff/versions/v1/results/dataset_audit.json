@@ -1,0 +1,62 @@
+{
+  "primary_photos": 20,
+  "physical_bottles": 4,
+  "train_original": 10,
+  "train_total_including_augmentation": 300,
+  "train_augmented": 290,
+  "validation_original": 5,
+  "test_original_reserved": 5,
+  "train_class_counts": {
+    "normal": 75,
+    "label_miring": 75,
+    "label_hilang": 75,
+    "penyok": 75
+  },
+  "validation_class_counts": {
+    "normal": 2,
+    "label_miring": 1,
+    "label_hilang": 1,
+    "penyok": 1
+  },
+  "test_class_counts_reserved": {
+    "normal": 2,
+    "label_miring": 1,
+    "label_hilang": 1,
+    "penyok": 1
+  },
+  "bottle_ids_by_split": {
+    "train": [
+      "01",
+      "02"
+    ],
+    "validation": [
+      "03"
+    ],
+    "test": [
+      "04"
+    ]
+  },
+  "original_hashes_checked": 310,
+  "augmentation_parameters_checked": 290,
+  "augmentation_source_count": 10,
+  "augmentation_parameter_ranges": {
+    "brightness": [
+      0.8508027167808657,
+      1.149784740523818
+    ],
+    "contrast": [
+      0.9000811879394576,
+      1.099981565701842
+    ],
+    "blur": [
+      0.0005919473765203131,
+      0.34985034590710795
+    ]
+  },
+  "zip_vs_unzipped": {
+    "available": true,
+    "file_count": 321,
+    "uncompressed_bytes": 131898997,
+    "byte_mismatches": 0
+  }
+}

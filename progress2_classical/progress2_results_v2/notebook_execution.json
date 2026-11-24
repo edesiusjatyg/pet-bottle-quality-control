@@ -1,0 +1,10 @@
+{
+  "execution_surface": "local Jupyter kernel via nbclient",
+  "all_code_cells_executed": 7,
+  "error_outputs": 0,
+  "test_evaluated": false,
+  "kaggle_executed": false,
+  "notebook": "progress2_classical_ml_v2_executed.ipynb",
+  "notebook_sha256": "fc7977ee446c7b8c174176c67104ed648ad115f4d03cc9ff9f841a12e1b8f379",
+  "script_sha256": "2c996e01db04ee4bb26db3cb7b16ed234a1ac15ff0a04f2d16633d8fc4f080ca"
+}

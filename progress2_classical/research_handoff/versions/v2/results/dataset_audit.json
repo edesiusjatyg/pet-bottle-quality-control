@@ -1,0 +1,98 @@
+{
+  "dataset": {
+    "version": "v2",
+    "revision": {
+      "version": "v2",
+      "date": "2026-11-17",
+      "reason": "Retake penyok01 dan penyok03 karena cacat pada foto awal kurang terlihat. Revisi setelah evaluasi awal, bukan bukti peningkatan generalisasi.",
+      "changes": [
+        {
+          "filename": "penyok03.jpg",
+          "old_sha256": "8e475fefa5302bf19c8114631802903984921b0344885de00a8aa382e2f41e4a",
+          "new_sha256": "c1cccd7b4cd176eef9a052e1b2a07dacf0ed13caa5776b83668bc44c95efc7a0",
+          "drive_file_id": "1a7HxoAHzHaA-8M0ToPP6TNp8_4iJLF6z",
+          "drive_modified_time": "2026-11-17T16:12:52.377Z",
+          "split": "validation"
+        },
+        {
+          "filename": "penyok01.jpg",
+          "old_sha256": "b9fafade7bb8e90b0dc6141ab4ebd0fea3b33fdbe346be4f3f73869c0d62e49d",
+          "new_sha256": "5690d42bc900675e06f9aebc6586009ba13a85e25174cc250311a1633c48fc94",
+          "drive_file_id": "1i5z3quG-DuKYavVj9tpSP4BBPa5oZL0r",
+          "drive_modified_time": "2026-11-17T16:12:44.622Z",
+          "split": "train"
+        }
+      ],
+      "split_unchanged": true,
+      "test_unchanged": true
+    },
+    "input_sha256": {
+      "train.csv": "db98c19355fd54b08c2dd37d9f2434e3ecdb46870bfc11a5a1550cf43493fa41",
+      "train_original.csv": "f4172fd6de6f7dfcf2033ec3c1784025107a7d33bc8b535f6b42f9cc9db6b3ef",
+      "val.csv": "a36ff9e9b9156bc79dec1cb469a58276fe00525276b0bccff0737d79191065af",
+      "test.csv": "9070eb866a2f1044b2761a0b27c99f0990a5f2b7e8d7ae90b8d8522e3b413c84",
+      "metadata_original.csv": "cb3576f1094a75d1f24cbca611829033aef3430e7b4de59c66868540644af3a0",
+      "augmentation_parameters.json": "dfede0d83197b7846a152f9a5c8a3303a7e26ecc0fd43a177c2926a3e88ce808"
+    }
+  },
+  "primary_photos": 20,
+  "physical_bottles": 4,
+  "train_original": 10,
+  "train_total_including_augmentation": 300,
+  "train_augmented": 290,
+  "validation_original": 5,
+  "test_original_reserved": 5,
+  "train_class_counts": {
+    "normal": 75,
+    "label_miring": 75,
+    "label_hilang": 75,
+    "penyok": 75
+  },
+  "validation_class_counts": {
+    "normal": 2,
+    "label_miring": 1,
+    "label_hilang": 1,
+    "penyok": 1
+  },
+  "test_class_counts_reserved": {
+    "normal": 2,
+    "label_miring": 1,
+    "label_hilang": 1,
+    "penyok": 1
+  },
+  "bottle_ids_by_split": {
+    "train": [
+      "01",
+      "02"
+    ],
+    "validation": [
+      "03"
+    ],
+    "test": [
+      "04"
+    ]
+  },
+  "original_hashes_checked": 310,
+  "augmentation_parameters_checked": 290,
+  "augmentation_source_count": 10,
+  "augmentation_parameter_ranges": {
+    "brightness": [
+      0.8508027167808657,
+      1.149784740523818
+    ],
+    "contrast": [
+      0.9000811879394576,
+      1.099981565701842
+    ],
+    "blur": [
+      0.0005919473765203131,
+      0.34985034590710795
+    ]
+  },
+  "zip_vs_unzipped": {
+    "available": true,
+    "file_count": 323,
+    "uncompressed_bytes": 132538324,
+    "byte_mismatches": 0
+  }
+}

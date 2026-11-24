@@ -1,0 +1,26 @@
+[
+  {
+    "variant": "cap_roi__clahe",
+    "unchanged_images_checked": 266,
+    "numeric_feature_columns_checked": 129,
+    "unchanged_numeric_features_match": true
+  },
+  {
+    "variant": "cap_roi__gray",
+    "unchanged_images_checked": 266,
+    "numeric_feature_columns_checked": 129,
+    "unchanged_numeric_features_match": true
+  },
+  {
+    "variant": "center_roi__clahe",
+    "unchanged_images_checked": 266,
+    "numeric_feature_columns_checked": 129,
+    "unchanged_numeric_features_match": true
+  },
+  {
+    "variant": "center_roi__gray",
+    "unchanged_images_checked": 266,
+    "numeric_feature_columns_checked": 129,
+    "unchanged_numeric_features_match": true
+  }
+]

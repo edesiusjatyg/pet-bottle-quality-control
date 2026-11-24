@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "date": "2026-11-17",
+  "reason": "Retake penyok01 dan penyok03 karena cacat pada foto awal kurang terlihat. Revisi setelah evaluasi awal, bukan bukti peningkatan generalisasi.",
+  "changes": [
+    {
+      "filename": "penyok03.jpg",
+      "old_sha256": "8e475fefa5302bf19c8114631802903984921b0344885de00a8aa382e2f41e4a",
+      "new_sha256": "c1cccd7b4cd176eef9a052e1b2a07dacf0ed13caa5776b83668bc44c95efc7a0",
+      "drive_file_id": "1a7HxoAHzHaA-8M0ToPP6TNp8_4iJLF6z",
+      "drive_modified_time": "2026-11-17T16:12:52.377Z",
+      "split": "validation"
+    },
+    {
+      "filename": "penyok01.jpg",
+      "old_sha256": "b9fafade7bb8e90b0dc6141ab4ebd0fea3b33fdbe346be4f3f73869c0d62e49d",
+      "new_sha256": "5690d42bc900675e06f9aebc6586009ba13a85e25174cc250311a1633c48fc94",
+      "drive_file_id": "1i5z3quG-DuKYavVj9tpSP4BBPa5oZL0r",
+      "drive_modified_time": "2026-11-17T16:12:44.622Z",
+      "split": "train"
+    }
+  ],
+  "split_unchanged": true,
+  "test_unchanged": true
+}

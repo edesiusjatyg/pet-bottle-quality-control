@@ -1,0 +1,40 @@
+{
+  "original_photos": 20,
+  "physical_bottles": 4,
+  "training": {
+    "total": 300,
+    "original": 10,
+    "augmented": 290,
+    "per_class": 75,
+    "bottles": [
+      "01",
+      "02"
+    ]
+  },
+  "validation": {
+    "total": 5,
+    "bottles": [
+      "03"
+    ]
+  },
+  "test": {
+    "total": 5,
+    "bottles": [
+      "04"
+    ]
+  },
+  "seed": 42,
+  "checks": [
+    "file readability",
+    "checksums",
+    "class balance",
+    "nonoverlapping bottle IDs",
+    "train-only augmentation"
+  ],
+  "version": "v2",
+  "retaken_photos": [
+    "penyok01.jpg",
+    "penyok03.jpg"
+  ],
+  "test_unchanged": true
+}

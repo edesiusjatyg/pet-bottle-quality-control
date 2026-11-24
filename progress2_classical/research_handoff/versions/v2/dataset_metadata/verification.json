@@ -1,0 +1,13 @@
+{
+  "train": 300,
+  "original_train": 10,
+  "augmented_train": 290,
+  "validation": 5,
+  "test": 5,
+  "changed_training_images": 38,
+  "changed_validation_images": 1,
+  "unchanged_test": true,
+  "other_training_images_unchanged": true,
+  "readability_and_checksums": "passed",
+  "group_split": "passed"
+}

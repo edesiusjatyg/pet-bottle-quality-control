@@ -1,0 +1,891 @@
+{
+  "purpose": "Research review of both v1 and v2; not a complete runnable dataset",
+  "included_primary_review_photos": [
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v1/review_photos/img/labelhilang01.jpg",
+      "sha256": "3ff62d14a204373aa09eaf4a215e9706b7e7c8f3092de938c27c7c046e8b9e5f"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v1/review_photos/img/labelhilang02.jpg",
+      "sha256": "41dd5fec80111d2923cf7cc4cb3153edcb5d93f7e9e4278df8212c6be107731a"
+    },
+    {
+      "version": "v1",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v1/review_photos/img/labelhilang03.jpg",
+      "sha256": "e139fc29fff92dd1d8f56442e4fc783d9b6db5fc78b195ddb7017c37b8060a31"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v1/review_photos/img/labelmiring01.jpg",
+      "sha256": "32373b22333ef011822767a25dd3602f1ce001ececa555a0d6b5617bd4007833"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v1/review_photos/img/labelmiring02.jpg",
+      "sha256": "593f171ce87c94b3a384d7bc98faee55beadd41cbb87ca8c2abf335924a65e4b"
+    },
+    {
+      "version": "v1",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v1/review_photos/img/labelmiring03.jpg",
+      "sha256": "4b45420dbba12c07e527eb8292fac11b1e10f97ae5f1129da769908c5704660a"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v1/review_photos/img/normal01.jpg",
+      "sha256": "5698194092efe7d58c4e696b6d12ee5160cffd6553ac77bfeaa72d6d71261a55"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v1/review_photos/img/normal01_light.jpg",
+      "sha256": "ef16b1e2802fe1db437e2fa1106be19211ad00e131c9549c11e7586a48b42c42"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v1/review_photos/img/normal02.jpg",
+      "sha256": "6ee112defef9023d67572598456c671514412c90d0c8dd0c5771c58bb3033b09"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v1/review_photos/img/normal02_light.jpg",
+      "sha256": "f105d2e56d30b78893ad010c519b721b38f6d66d2867b75b27f4e5a50fa19a5e"
+    },
+    {
+      "version": "v1",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v1/review_photos/img/normal03.jpg",
+      "sha256": "fdd623e59589153a461b10a1a51921a8de0797ce9f1945c9e708620cbf6e8bad"
+    },
+    {
+      "version": "v1",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v1/review_photos/img/normal03_light.jpg",
+      "sha256": "a1de44e997d9806b2bf5a8dc2fe35f344241f634ee37f904e2e6dcea89f069db"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v1/review_photos/img/penyok01.jpg",
+      "sha256": "b9fafade7bb8e90b0dc6141ab4ebd0fea3b33fdbe346be4f3f73869c0d62e49d"
+    },
+    {
+      "version": "v1",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v1/review_photos/img/penyok02.jpg",
+      "sha256": "a6b2f4542e4cd7fe4b0ac66a218fcee26591afdbfe5d3e13feeaa0eb578d0e3d"
+    },
+    {
+      "version": "v1",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v1/review_photos/img/penyok03.jpg",
+      "sha256": "8e475fefa5302bf19c8114631802903984921b0344885de00a8aa382e2f41e4a"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v2/review_photos/img/labelhilang01.jpg",
+      "sha256": "3ff62d14a204373aa09eaf4a215e9706b7e7c8f3092de938c27c7c046e8b9e5f"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v2/review_photos/img/labelhilang02.jpg",
+      "sha256": "41dd5fec80111d2923cf7cc4cb3153edcb5d93f7e9e4278df8212c6be107731a"
+    },
+    {
+      "version": "v2",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v2/review_photos/img/labelhilang03.jpg",
+      "sha256": "e139fc29fff92dd1d8f56442e4fc783d9b6db5fc78b195ddb7017c37b8060a31"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v2/review_photos/img/labelmiring01.jpg",
+      "sha256": "32373b22333ef011822767a25dd3602f1ce001ececa555a0d6b5617bd4007833"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v2/review_photos/img/labelmiring02.jpg",
+      "sha256": "593f171ce87c94b3a384d7bc98faee55beadd41cbb87ca8c2abf335924a65e4b"
+    },
+    {
+      "version": "v2",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v2/review_photos/img/labelmiring03.jpg",
+      "sha256": "4b45420dbba12c07e527eb8292fac11b1e10f97ae5f1129da769908c5704660a"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v2/review_photos/img/normal01.jpg",
+      "sha256": "5698194092efe7d58c4e696b6d12ee5160cffd6553ac77bfeaa72d6d71261a55"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v2/review_photos/img/normal01_light.jpg",
+      "sha256": "ef16b1e2802fe1db437e2fa1106be19211ad00e131c9549c11e7586a48b42c42"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v2/review_photos/img/normal02.jpg",
+      "sha256": "6ee112defef9023d67572598456c671514412c90d0c8dd0c5771c58bb3033b09"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v2/review_photos/img/normal02_light.jpg",
+      "sha256": "f105d2e56d30b78893ad010c519b721b38f6d66d2867b75b27f4e5a50fa19a5e"
+    },
+    {
+      "version": "v2",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v2/review_photos/img/normal03.jpg",
+      "sha256": "fdd623e59589153a461b10a1a51921a8de0797ce9f1945c9e708620cbf6e8bad"
+    },
+    {
+      "version": "v2",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v2/review_photos/img/normal03_light.jpg",
+      "sha256": "a1de44e997d9806b2bf5a8dc2fe35f344241f634ee37f904e2e6dcea89f069db"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "01",
+      "filename": "versions/v2/review_photos/img/penyok01.jpg",
+      "sha256": "5690d42bc900675e06f9aebc6586009ba13a85e25174cc250311a1633c48fc94"
+    },
+    {
+      "version": "v2",
+      "split": "train",
+      "bottle_id": "02",
+      "filename": "versions/v2/review_photos/img/penyok02.jpg",
+      "sha256": "a6b2f4542e4cd7fe4b0ac66a218fcee26591afdbfe5d3e13feeaa0eb578d0e3d"
+    },
+    {
+      "version": "v2",
+      "split": "validation",
+      "bottle_id": "03",
+      "filename": "versions/v2/review_photos/img/penyok03.jpg",
+      "sha256": "c1cccd7b4cd176eef9a052e1b2a07dacf0ed13caa5776b83668bc44c95efc7a0"
+    }
+  ],
+  "omitted": [
+    "test image pixels",
+    "offline augmented JPEGs (metadata and features included)"
+  ],
+  "files": [
+    {
+      "path": "PROMPT_FOR_GPT.md",
+      "bytes": 2224,
+      "sha256": "70fdcdaccc0642a85087a047ece66007ad8d64b18fe8529f476f05298fb4f801"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2738,
+      "sha256": "3a1b652ce25845cead72f9f4dfa55c5de25840fe83621632838a9743f07b38b7"
+    },
+    {
+      "path": "RESEARCH_BRIEF_FOR_GPT.md",
+      "bytes": 9303,
+      "sha256": "7c779f1b03a541852e13de3c71b5816f5ec453367ecc297de7f42723505a2e0f"
+    },
+    {
+      "path": "code/README.md",
+      "bytes": 6298,
+      "sha256": "3d99004db99219a55d4a58fe200332431c848fb71d1500cb16e542cfde5be60c"
+    },
+    {
+      "path": "code/build_notebook.py",
+      "bytes": 8940,
+      "sha256": "20dad2a06d46e767dc2ea0ea8572ddc28580f8f1f0f09e22851d6e7b32e528d8"
+    },
+    {
+      "path": "code/build_research_handoff.py",
+      "bytes": 7263,
+      "sha256": "6a6a27ba177fb26b5a6cfebb9aac532e518a5b8446c39d7839082c39a4cbce58"
+    },
+    {
+      "path": "code/experiment.py",
+      "bytes": 59829,
+      "sha256": "2c996e01db04ee4bb26db3cb7b16ed234a1ac15ff0a04f2d16633d8fc4f080ca"
+    },
+    {
+      "path": "code/progress2_classical_ml.ipynb",
+      "bytes": 10888,
+      "sha256": "5fbe86c20669fad2c18766f369560d01d98158779fbe25b3107c0cd8fdceaf4c"
+    },
+    {
+      "path": "code/progress2_classical_ml_v2_executed.ipynb",
+      "bytes": 16819496,
+      "sha256": "fc7977ee446c7b8c174176c67104ed648ad115f4d03cc9ff9f841a12e1b8f379"
+    },
+    {
+      "path": "code/requirements.txt",
+      "bytes": 134,
+      "sha256": "425a0840c7bb7f04b1cf2e06d85b7db7d4cece19c439edd864ed9b95c0c8686d"
+    },
+    {
+      "path": "comparison/audit_v1_v2.json",
+      "bytes": 3185,
+      "sha256": "a84a9f768c3ff4f2e0d6c99485dc127e33772e591d366cd62ed5976deed0c3ee"
+    },
+    {
+      "path": "comparison/feature_reproducibility_v1_v2.json",
+      "bytes": 678,
+      "sha256": "13dfe0539479ec5658296528098bad1f0b7176a6dc96400f08f9c81b3e79a73b"
+    },
+    {
+      "path": "comparison/primary_photo_changes_v1_v2.csv",
+      "bytes": 3863,
+      "sha256": "f556a85db935b6199c9ac2a86ffd2c7ec71cd60fb758539866719a030b878d12"
+    },
+    {
+      "path": "comparison/validation_comparison_v1_v2.csv",
+      "bytes": 630,
+      "sha256": "3bb0a567c5a84c091440f529feed35ad0642fa57120642766c9efbaf3498d289"
+    },
+    {
+      "path": "comparison/validation_predictions_side_by_side.csv",
+      "bytes": 737,
+      "sha256": "8ee4b9271c3c698474b2378e9325c1692d2105b4efc677c30765dc0fd1849ab6"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/README.md",
+      "bytes": 4201,
+      "sha256": "4db5482222e52c2e8c9f6acb278e945b691b4388608c18baac14a125ebbe503b"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/augment_train.py",
+      "bytes": 2922,
+      "sha256": "dd04ba009eeb8ae275c6edc7e63d89408284ad20cd90c4afe8e2914153c4bad6"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/augmentation_parameters.json",
+      "bytes": 60570,
+      "sha256": "dfede0d83197b7846a152f9a5c8a3303a7e26ecc0fd43a177c2926a3e88ce808"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/dataset_summary.json",
+      "bytes": 572,
+      "sha256": "972f4563cecbc66a27945da07e7f74e5ae00a3ad092ca6fb161c2e52749383af"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/metadata_original.csv",
+      "bytes": 5337,
+      "sha256": "2e5d4ee25139f0b8ec1e35a9bf4af45c3db3e7401f890ecdef6a5d38b464d86b"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/test.csv",
+      "bytes": 1345,
+      "sha256": "9070eb866a2f1044b2761a0b27c99f0990a5f2b7e8d7ae90b8d8522e3b413c84"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/train.csv",
+      "bytes": 85239,
+      "sha256": "73177da0f71fd1999f3442c8f7d3f5f757a49bad64e01d4ddb225901b8ae5c82"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/train_original.csv",
+      "bytes": 2719,
+      "sha256": "39313753e4c6aa5ff8a82bdcd2e018892091bce3d44c0d759a5bf7005b4a0e81"
+    },
+    {
+      "path": "versions/v1/dataset_metadata/val.csv",
+      "bytes": 1515,
+      "sha256": "2d1a82c23bf081f6efef52d6d1aada794680c43e0d96c17f4a7a993c9f0a814f"
+    },
+    {
+      "path": "versions/v1/results/augmentation_lineage.csv",
+      "bytes": 410,
+      "sha256": "127611428822eff09d5d2c84ea7583a1891420c058ba03f54bbe64e95983932e"
+    },
+    {
+      "path": "versions/v1/results/augmentation_parameters.csv",
+      "bytes": 31038,
+      "sha256": "55c2015baccda59174294fe6a361dd9ccc0b519c1cb8a0267a4233890b0ce52a"
+    },
+    {
+      "path": "versions/v1/results/dataset_audit.json",
+      "bytes": 1214,
+      "sha256": "549cc26179f2186625c32f20e5fdd372ff7728fc02d1e84735bdc33c60d4eb98"
+    },
+    {
+      "path": "versions/v1/results/eda_augmentation_parameters.png",
+      "bytes": 51322,
+      "sha256": "0cdf0960e284ea5d4403ba4ded333311ca77cd8f0a7533b62742df9ec90af7c8"
+    },
+    {
+      "path": "versions/v1/results/eda_class_counts.png",
+      "bytes": 84017,
+      "sha256": "60aad6c62a1d398b13cd063645fd2ea7fe3b3180ae16868fe324dd1a34c3cf7e"
+    },
+    {
+      "path": "versions/v1/results/eda_original_photos.png",
+      "bytes": 3087243,
+      "sha256": "8034728f1baf3d105e51bf2ecba03b9b79e7a30cbf548ab0db9ed0f4e8dd1736"
+    },
+    {
+      "path": "versions/v1/results/experiment_summary.md",
+      "bytes": 1364,
+      "sha256": "d2bfa68475e3c30f0612f1b1b8b2570a97827de0e174e4f77b608fe6f6b91061"
+    },
+    {
+      "path": "versions/v1/results/feature_detection_summary.csv",
+      "bytes": 741,
+      "sha256": "3b44f01d68ee1d6c406a4b36045ebe7ee7aa66217850de087d4d7e3458c5c8b0"
+    },
+    {
+      "path": "versions/v1/results/features_cap_roi__clahe.csv",
+      "bytes": 745734,
+      "sha256": "f7ab37a39f497b522c4ef570e18ce35f338f385e367695da4e030e7c8fadb6cc"
+    },
+    {
+      "path": "versions/v1/results/features_cap_roi__gray.csv",
+      "bytes": 703313,
+      "sha256": "ae7339943a99479109007ab58a28e3309af7e9386fdd08687debd144b9206de1"
+    },
+    {
+      "path": "versions/v1/results/features_center_roi__clahe.csv",
+      "bytes": 749776,
+      "sha256": "d701240d89d4d1dc07d5273f62b8ff675bac83ed6c049e8b00840ca1c55cb2f3"
+    },
+    {
+      "path": "versions/v1/results/features_center_roi__gray.csv",
+      "bytes": 710257,
+      "sha256": "38cbc11b41027a5a7360909d8d43f946425133d326ff1f6f103877ec962bb5ce"
+    },
+    {
+      "path": "versions/v1/results/model_search_validation.csv",
+      "bytes": 6989,
+      "sha256": "a8e784e6a14c826c290ca1d8a2dc14527ff14bdc36cfba126c6672db98f10731"
+    },
+    {
+      "path": "versions/v1/results/original_photo_inventory.csv",
+      "bytes": 5316,
+      "sha256": "9c10cbfc5d7b5fa2418630b532b1d53b140cc075052ed318e31b9d5262af2319"
+    },
+    {
+      "path": "versions/v1/results/pcd_roi_comparison_train_originals.png",
+      "bytes": 5809240,
+      "sha256": "393e324b90d3a4489a47f4a603ec207170767125ef6c7cea7a360478c77f4a08"
+    },
+    {
+      "path": "versions/v1/results/pcd_roi_diagnostics_train_originals.csv",
+      "bytes": 959,
+      "sha256": "d6411b676b0b367e213e8728f20f49825c185be7177640fdd89dc7f358ba0c61"
+    },
+    {
+      "path": "versions/v1/results/selected_config.json",
+      "bytes": 12764,
+      "sha256": "1837f317239c7b3d2ae62692a44ad7dabc897769d0e45c6e0b8b0a960a851f69"
+    },
+    {
+      "path": "versions/v1/results/silhouette_profile_deviation_cap_roi__clahe.png",
+      "bytes": 356509,
+      "sha256": "9a5bdf9c6bca29e6e90b94d0bb094d57607695a4d7caecf0cc3c17f06cffdf27"
+    },
+    {
+      "path": "versions/v1/results/silhouette_profile_deviation_cap_roi__gray.png",
+      "bytes": 314413,
+      "sha256": "ee456b8e47652b5a72426f3d250c780fbb3e29a446413933b526ab6886cc71ec"
+    },
+    {
+      "path": "versions/v1/results/silhouette_profile_deviation_center_roi__clahe.png",
+      "bytes": 342908,
+      "sha256": "ca947cd858cfbb7a8d60f299f6a614b9415dd89a2739799eb93064d264e546ed"
+    },
+    {
+      "path": "versions/v1/results/silhouette_profile_deviation_center_roi__gray.png",
+      "bytes": 330310,
+      "sha256": "fb029b6167e53df1f5ea075f891076cbd93bb77ddcb093a42e51179e44d13a5e"
+    },
+    {
+      "path": "versions/v1/results/svm_pipeline.joblib",
+      "bytes": 98993,
+      "sha256": "f02258b29c66b408007fe583c5172289983be109ae0de9edd0e3add41c135b5b"
+    },
+    {
+      "path": "versions/v1/results/training_diagnostic_metrics.csv",
+      "bytes": 205,
+      "sha256": "12c81b42ea54f06419c7acf926fd45d4a44e1876cc89e99a62069ee6fa97a254"
+    },
+    {
+      "path": "versions/v1/results/training_original_predictions.csv",
+      "bytes": 1327,
+      "sha256": "72b7410aa88a0ef16a8d0d2d4938cdec75504427bc9d6b29b793b2c4b636d85b"
+    },
+    {
+      "path": "versions/v1/results/validation_confusion_svm.png",
+      "bytes": 71119,
+      "sha256": "4735bfab0826c3820b878237a08a3adc8a626b7ed086bca3441ec15c53e69858"
+    },
+    {
+      "path": "versions/v1/results/validation_confusion_xgboost.png",
+      "bytes": 71915,
+      "sha256": "e4416c1b5e7fe811c8ed4fd000676066c3c7995f652a1b2dd81047febd739ec5"
+    },
+    {
+      "path": "versions/v1/results/validation_error_analysis.csv",
+      "bytes": 1293,
+      "sha256": "424e24a8f478beadbb268c4c12d1bf08b53c22375869efdbbf6b2be8fad5bb21"
+    },
+    {
+      "path": "versions/v1/results/validation_metrics_by_class.csv",
+      "bytes": 408,
+      "sha256": "1bcfef7e63987deb7e88ed199cffe9963b8551bea1380612965fac1d2ee93bf8"
+    },
+    {
+      "path": "versions/v1/results/validation_metrics_summary.csv",
+      "bytes": 368,
+      "sha256": "547946e5848526dfbf387c92d9d8048e43f979bcf2daf98a61f66d029c5bb263"
+    },
+    {
+      "path": "versions/v1/results/validation_predictions.csv",
+      "bytes": 2825,
+      "sha256": "b57082461e346ecf206617926c32be8124ab7b5dc539aea5e14b440d8f7bbd20"
+    },
+    {
+      "path": "versions/v1/results/xgboost_pipeline.joblib",
+      "bytes": 285133,
+      "sha256": "9bbcc8dd3038faf52645d6bf7463f85599c9a861543dfa1881bd50e49193a2d7"
+    },
+    {
+      "path": "versions/v1/review_photos/img/labelhilang01.jpg",
+      "bytes": 1963432,
+      "sha256": "3ff62d14a204373aa09eaf4a215e9706b7e7c8f3092de938c27c7c046e8b9e5f"
+    },
+    {
+      "path": "versions/v1/review_photos/img/labelhilang02.jpg",
+      "bytes": 2780443,
+      "sha256": "41dd5fec80111d2923cf7cc4cb3153edcb5d93f7e9e4278df8212c6be107731a"
+    },
+    {
+      "path": "versions/v1/review_photos/img/labelhilang03.jpg",
+      "bytes": 2658371,
+      "sha256": "e139fc29fff92dd1d8f56442e4fc783d9b6db5fc78b195ddb7017c37b8060a31"
+    },
+    {
+      "path": "versions/v1/review_photos/img/labelmiring01.jpg",
+      "bytes": 2499987,
+      "sha256": "32373b22333ef011822767a25dd3602f1ce001ececa555a0d6b5617bd4007833"
+    },
+    {
+      "path": "versions/v1/review_photos/img/labelmiring02.jpg",
+      "bytes": 1948612,
+      "sha256": "593f171ce87c94b3a384d7bc98faee55beadd41cbb87ca8c2abf335924a65e4b"
+    },
+    {
+      "path": "versions/v1/review_photos/img/labelmiring03.jpg",
+      "bytes": 1738167,
+      "sha256": "4b45420dbba12c07e527eb8292fac11b1e10f97ae5f1129da769908c5704660a"
+    },
+    {
+      "path": "versions/v1/review_photos/img/normal01.jpg",
+      "bytes": 1312931,
+      "sha256": "5698194092efe7d58c4e696b6d12ee5160cffd6553ac77bfeaa72d6d71261a55"
+    },
+    {
+      "path": "versions/v1/review_photos/img/normal01_light.jpg",
+      "bytes": 1079228,
+      "sha256": "ef16b1e2802fe1db437e2fa1106be19211ad00e131c9549c11e7586a48b42c42"
+    },
+    {
+      "path": "versions/v1/review_photos/img/normal02.jpg",
+      "bytes": 1868987,
+      "sha256": "6ee112defef9023d67572598456c671514412c90d0c8dd0c5771c58bb3033b09"
+    },
+    {
+      "path": "versions/v1/review_photos/img/normal02_light.jpg",
+      "bytes": 1791245,
+      "sha256": "f105d2e56d30b78893ad010c519b721b38f6d66d2867b75b27f4e5a50fa19a5e"
+    },
+    {
+      "path": "versions/v1/review_photos/img/normal03.jpg",
+      "bytes": 2884285,
+      "sha256": "fdd623e59589153a461b10a1a51921a8de0797ce9f1945c9e708620cbf6e8bad"
+    },
+    {
+      "path": "versions/v1/review_photos/img/normal03_light.jpg",
+      "bytes": 2639503,
+      "sha256": "a1de44e997d9806b2bf5a8dc2fe35f344241f634ee37f904e2e6dcea89f069db"
+    },
+    {
+      "path": "versions/v1/review_photos/img/penyok01.jpg",
+      "bytes": 2554756,
+      "sha256": "b9fafade7bb8e90b0dc6141ab4ebd0fea3b33fdbe346be4f3f73869c0d62e49d"
+    },
+    {
+      "path": "versions/v1/review_photos/img/penyok02.jpg",
+      "bytes": 3146096,
+      "sha256": "a6b2f4542e4cd7fe4b0ac66a218fcee26591afdbfe5d3e13feeaa0eb578d0e3d"
+    },
+    {
+      "path": "versions/v1/review_photos/img/penyok03.jpg",
+      "bytes": 2765608,
+      "sha256": "8e475fefa5302bf19c8114631802903984921b0344885de00a8aa382e2f41e4a"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/README.md",
+      "bytes": 4852,
+      "sha256": "7377e8da5575e5968d51caa4d1e8ed63d6be1e6038d8252550c8ea454b43116c"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/augment_train.py",
+      "bytes": 2922,
+      "sha256": "dd04ba009eeb8ae275c6edc7e63d89408284ad20cd90c4afe8e2914153c4bad6"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/augmentation_parameters.json",
+      "bytes": 60570,
+      "sha256": "dfede0d83197b7846a152f9a5c8a3303a7e26ecc0fd43a177c2926a3e88ce808"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/dataset_revision.json",
+      "bytes": 1005,
+      "sha256": "427caeef27fcfc3e0361894660e21af9cdf6157a984e3e96fe135e7b10af33cb"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/dataset_summary.json",
+      "bytes": 609,
+      "sha256": "7ff5a3ceaa956885672955610b3afc797e79f7d763199261b87e79fffe3794ca"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/metadata_original.csv",
+      "bytes": 5353,
+      "sha256": "cb3576f1094a75d1f24cbca611829033aef3430e7b4de59c66868540644af3a0"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/test.csv",
+      "bytes": 1345,
+      "sha256": "9070eb866a2f1044b2761a0b27c99f0990a5f2b7e8d7ae90b8d8522e3b413c84"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/train.csv",
+      "bytes": 85543,
+      "sha256": "db98c19355fd54b08c2dd37d9f2434e3ecdb46870bfc11a5a1550cf43493fa41"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/train_original.csv",
+      "bytes": 2727,
+      "sha256": "f4172fd6de6f7dfcf2033ec3c1784025107a7d33bc8b535f6b42f9cc9db6b3ef"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/val.csv",
+      "bytes": 1523,
+      "sha256": "a36ff9e9b9156bc79dec1cb469a58276fe00525276b0bccff0737d79191065af"
+    },
+    {
+      "path": "versions/v2/dataset_metadata/verification.json",
+      "bytes": 304,
+      "sha256": "ce5811860c073519c085b0d15f8b9d315aee0f97c31187233c43ca98ced89ab9"
+    },
+    {
+      "path": "versions/v2/results/audit_v1_v2.json",
+      "bytes": 3185,
+      "sha256": "a84a9f768c3ff4f2e0d6c99485dc127e33772e591d366cd62ed5976deed0c3ee"
+    },
+    {
+      "path": "versions/v2/results/augmentation_lineage.csv",
+      "bytes": 410,
+      "sha256": "127611428822eff09d5d2c84ea7583a1891420c058ba03f54bbe64e95983932e"
+    },
+    {
+      "path": "versions/v2/results/augmentation_parameters.csv",
+      "bytes": 31038,
+      "sha256": "55c2015baccda59174294fe6a361dd9ccc0b519c1cb8a0267a4233890b0ce52a"
+    },
+    {
+      "path": "versions/v2/results/dataset_audit.json",
+      "bytes": 2960,
+      "sha256": "90d7405050269d5a87c81af6d535fc13d633ae2b634c3b4ba6d5043af074ec56"
+    },
+    {
+      "path": "versions/v2/results/eda_augmentation_parameters.png",
+      "bytes": 51322,
+      "sha256": "0cdf0960e284ea5d4403ba4ded333311ca77cd8f0a7533b62742df9ec90af7c8"
+    },
+    {
+      "path": "versions/v2/results/eda_class_counts.png",
+      "bytes": 84017,
+      "sha256": "60aad6c62a1d398b13cd063645fd2ea7fe3b3180ae16868fe324dd1a34c3cf7e"
+    },
+    {
+      "path": "versions/v2/results/eda_original_photos.png",
+      "bytes": 3104945,
+      "sha256": "6f7ec3068f404e0e46c1490b288440ebfff9f7d5b3f919436d85081e202cace6"
+    },
+    {
+      "path": "versions/v2/results/experiment_summary.md",
+      "bytes": 1720,
+      "sha256": "43880c91ecd134ee95df51fe323000564917d357cf36aa820fc5f66564083915"
+    },
+    {
+      "path": "versions/v2/results/feature_detection_summary.csv",
+      "bytes": 723,
+      "sha256": "b75e79b932a0aad16e71bb2a63f7e06e9c4594115e4aaefec1b775f687e29def"
+    },
+    {
+      "path": "versions/v2/results/feature_overlay_train_center_roi__gray.png",
+      "bytes": 1987837,
+      "sha256": "cf80d447937456a5e08b64067d74d2cf411f069e6573de90acea22dcab6e2d6d"
+    },
+    {
+      "path": "versions/v2/results/feature_overlay_validation_center_roi__gray.png",
+      "bytes": 954698,
+      "sha256": "a64a43088e720de21e308513af4f18ccf5025c6e5d4f51e82641bd0380e648d0"
+    },
+    {
+      "path": "versions/v2/results/feature_reproducibility_v1_v2.json",
+      "bytes": 678,
+      "sha256": "13dfe0539479ec5658296528098bad1f0b7176a6dc96400f08f9c81b3e79a73b"
+    },
+    {
+      "path": "versions/v2/results/features_cap_roi__clahe.csv",
+      "bytes": 745688,
+      "sha256": "4110915825ab218057a0e291991c49f1a7a29580bcc6c261c0d2b6dd38bd8f22"
+    },
+    {
+      "path": "versions/v2/results/features_cap_roi__gray.csv",
+      "bytes": 681890,
+      "sha256": "2b1854a2b247b697dc468658321aefbc5ec02abd8bcc2ceee6bf8e06829c62b5"
+    },
+    {
+      "path": "versions/v2/results/features_center_roi__clahe.csv",
+      "bytes": 749855,
+      "sha256": "419bf82ee808e29f734796d1bcc6ada838e2da38a452853de878295472d722b0"
+    },
+    {
+      "path": "versions/v2/results/features_center_roi__gray.csv",
+      "bytes": 687601,
+      "sha256": "3de13837823501826e0bfeb5ade5147b3b00e97297b87aba2b2793533ee6ff96"
+    },
+    {
+      "path": "versions/v2/results/model_search_validation.csv",
+      "bytes": 7583,
+      "sha256": "46f578e3bcbc88d458d6c61f1df22007bce6e31a04ebea6c6b5b9100851fc924"
+    },
+    {
+      "path": "versions/v2/results/notebook_execution.json",
+      "bytes": 405,
+      "sha256": "b1bb79901e54927e51cdd2a8c2448d2bf3dd3c4488f5b457f816d999c532e036"
+    },
+    {
+      "path": "versions/v2/results/original_photo_inventory.csv",
+      "bytes": 5332,
+      "sha256": "da75fd8db022efdf5e4d73eb3417e6b22dbb31ef12dc406c3442deed483e54e8"
+    },
+    {
+      "path": "versions/v2/results/pcd_roi_comparison_train_originals.png",
+      "bytes": 5883058,
+      "sha256": "f2c6064b62e8e8eff264b3a73a0778bfd3776ae453b9c715c609f162b63f2b8f"
+    },
+    {
+      "path": "versions/v2/results/pcd_roi_diagnostics_train_originals.csv",
+      "bytes": 956,
+      "sha256": "194d40e1be1361352ed2a54a1cf8fb0de23b220fe1e3d928019c8f3c6be4cb48"
+    },
+    {
+      "path": "versions/v2/results/selected_config.json",
+      "bytes": 14981,
+      "sha256": "80d269b692507ab017b2a4177319efd5fdf52725849b4f2397988263380e6ba6"
+    },
+    {
+      "path": "versions/v2/results/silhouette_profile_deviation_cap_roi__clahe.png",
+      "bytes": 366008,
+      "sha256": "8597b030e8ebc51a46e635bc89c591514a8c70d82de58b9d5a7d5cfa0a2d80c1"
+    },
+    {
+      "path": "versions/v2/results/silhouette_profile_deviation_cap_roi__gray.png",
+      "bytes": 311935,
+      "sha256": "3054365b7727f2cdcdfd35b78588990e67b8ad71824bb35551e7c1ea8608e80a"
+    },
+    {
+      "path": "versions/v2/results/silhouette_profile_deviation_center_roi__clahe.png",
+      "bytes": 345608,
+      "sha256": "e926d887da177492072cf6337a998a71c3b21cfc265c56a9265ae72ef0bb09ce"
+    },
+    {
+      "path": "versions/v2/results/silhouette_profile_deviation_center_roi__gray.png",
+      "bytes": 328470,
+      "sha256": "a322b3fc094c3791f530590d96a8d47a6d3d91e6f4c00a61016a132cfa91ac9c"
+    },
+    {
+      "path": "versions/v2/results/svm_pipeline.joblib",
+      "bytes": 103361,
+      "sha256": "ea02a061c9f461ae926a56ae8012c778fd5f37ee51b8a78115dc3f7dc98d9755"
+    },
+    {
+      "path": "versions/v2/results/training_diagnostic_metrics.csv",
+      "bytes": 205,
+      "sha256": "12c81b42ea54f06419c7acf926fd45d4a44e1876cc89e99a62069ee6fa97a254"
+    },
+    {
+      "path": "versions/v2/results/training_original_predictions.csv",
+      "bytes": 1327,
+      "sha256": "72b7410aa88a0ef16a8d0d2d4938cdec75504427bc9d6b29b793b2c4b636d85b"
+    },
+    {
+      "path": "versions/v2/results/v2_analysis.md",
+      "bytes": 6072,
+      "sha256": "de8a62714ccff463266dbd548e40ad5908b061c8968c6908e51b40d5aedc7e2f"
+    },
+    {
+      "path": "versions/v2/results/validation_comparison_v1_v2.csv",
+      "bytes": 630,
+      "sha256": "3bb0a567c5a84c091440f529feed35ad0642fa57120642766c9efbaf3498d289"
+    },
+    {
+      "path": "versions/v2/results/validation_confusion_svm.png",
+      "bytes": 70981,
+      "sha256": "e9008834827ab4bac27cc460f84fd35baac2a11126e2489e92ab823d7b54e60d"
+    },
+    {
+      "path": "versions/v2/results/validation_confusion_xgboost.png",
+      "bytes": 71501,
+      "sha256": "600d0b8e786e390ffc6ca1c1d4f65632a0a96c84d302c07e2edaa31e526ba861"
+    },
+    {
+      "path": "versions/v2/results/validation_error_analysis.csv",
+      "bytes": 1959,
+      "sha256": "a6f42d9fdabb16b92d93f9e5ccc9442bc78463645504d0873ab5be1f0f49eb63"
+    },
+    {
+      "path": "versions/v2/results/validation_metrics_by_class.csv",
+      "bytes": 390,
+      "sha256": "dd9fad021c2e3987cc05aabac8d8a82c3b2adac39fe27f678a39677f61d31812"
+    },
+    {
+      "path": "versions/v2/results/validation_metrics_summary.csv",
+      "bytes": 366,
+      "sha256": "c1ca8559d389c0970c2423d07a9e899d21c1f757b39603950bf88aebfb3a54d0"
+    },
+    {
+      "path": "versions/v2/results/validation_predictions.csv",
+      "bytes": 2899,
+      "sha256": "db2b428f51a3cd7d1c0c931688525c502b8c75bbfc97751dfec9f4300684d2d5"
+    },
+    {
+      "path": "versions/v2/results/xgboost_pipeline.joblib",
+      "bytes": 279353,
+      "sha256": "9bb1eab175fd93ffc5d6789284dd36fa131fce18f36b8914424bedeacd35cbb2"
+    },
+    {
+      "path": "versions/v2/review_photos/img/labelhilang01.jpg",
+      "bytes": 1963432,
+      "sha256": "3ff62d14a204373aa09eaf4a215e9706b7e7c8f3092de938c27c7c046e8b9e5f"
+    },
+    {
+      "path": "versions/v2/review_photos/img/labelhilang02.jpg",
+      "bytes": 2780443,
+      "sha256": "41dd5fec80111d2923cf7cc4cb3153edcb5d93f7e9e4278df8212c6be107731a"
+    },
+    {
+      "path": "versions/v2/review_photos/img/labelhilang03.jpg",
+      "bytes": 2658371,
+      "sha256": "e139fc29fff92dd1d8f56442e4fc783d9b6db5fc78b195ddb7017c37b8060a31"
+    },
+    {
+      "path": "versions/v2/review_photos/img/labelmiring01.jpg",
+      "bytes": 2499987,
+      "sha256": "32373b22333ef011822767a25dd3602f1ce001ececa555a0d6b5617bd4007833"
+    },
+    {
+      "path": "versions/v2/review_photos/img/labelmiring02.jpg",
+      "bytes": 1948612,
+      "sha256": "593f171ce87c94b3a384d7bc98faee55beadd41cbb87ca8c2abf335924a65e4b"
+    },
+    {
+      "path": "versions/v2/review_photos/img/labelmiring03.jpg",
+      "bytes": 1738167,
+      "sha256": "4b45420dbba12c07e527eb8292fac11b1e10f97ae5f1129da769908c5704660a"
+    },
+    {
+      "path": "versions/v2/review_photos/img/normal01.jpg",
+      "bytes": 1312931,
+      "sha256": "5698194092efe7d58c4e696b6d12ee5160cffd6553ac77bfeaa72d6d71261a55"
+    },
+    {
+      "path": "versions/v2/review_photos/img/normal01_light.jpg",
+      "bytes": 1079228,
+      "sha256": "ef16b1e2802fe1db437e2fa1106be19211ad00e131c9549c11e7586a48b42c42"
+    },
+    {
+      "path": "versions/v2/review_photos/img/normal02.jpg",
+      "bytes": 1868987,
+      "sha256": "6ee112defef9023d67572598456c671514412c90d0c8dd0c5771c58bb3033b09"
+    },
+    {
+      "path": "versions/v2/review_photos/img/normal02_light.jpg",
+      "bytes": 1791245,
+      "sha256": "f105d2e56d30b78893ad010c519b721b38f6d66d2867b75b27f4e5a50fa19a5e"
+    },
+    {
+      "path": "versions/v2/review_photos/img/normal03.jpg",
+      "bytes": 2884285,
+      "sha256": "fdd623e59589153a461b10a1a51921a8de0797ce9f1945c9e708620cbf6e8bad"
+    },
+    {
+      "path": "versions/v2/review_photos/img/normal03_light.jpg",
+      "bytes": 2639503,
+      "sha256": "a1de44e997d9806b2bf5a8dc2fe35f344241f634ee37f904e2e6dcea89f069db"
+    },
+    {
+      "path": "versions/v2/review_photos/img/penyok01.jpg",
+      "bytes": 2731506,
+      "sha256": "5690d42bc900675e06f9aebc6586009ba13a85e25174cc250311a1633c48fc94"
+    },
+    {
+      "path": "versions/v2/review_photos/img/penyok02.jpg",
+      "bytes": 3146096,
+      "sha256": "a6b2f4542e4cd7fe4b0ac66a218fcee26591afdbfe5d3e13feeaa0eb578d0e3d"
+    },
+    {
+      "path": "versions/v2/review_photos/img/penyok03.jpg",
+      "bytes": 3110410,
+      "sha256": "c1cccd7b4cd176eef9a052e1b2a07dacf0ed13caa5776b83668bc44c95efc7a0"
+    }
+  ]
+}

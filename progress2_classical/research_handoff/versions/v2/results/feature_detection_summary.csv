@@ -1,0 +1,9 @@
+variant,data_role,sample_count,cap_found_rate,axis_found_rate,label_found_rate,profile_valid_fraction_mean,profile_right_upper_valid_fraction_mean,label_angle_available_count
+center_roi__gray,train_original,10,1.0,0.6,0.8,0.8099999999999999,1.0,1
+center_roi__gray,validation,5,1.0,0.6,0.8,0.8400000000000001,0.7999999999999999,2
+center_roi__clahe,train_original,10,1.0,0.6,0.8,0.9,0.9666666666666666,1
+center_roi__clahe,validation,5,1.0,0.6,0.8,0.8,0.7333333333333333,2
+cap_roi__gray,train_original,10,1.0,0.7,0.8,0.8,0.9,2
+cap_roi__gray,validation,5,1.0,0.6,0.8,0.8,0.7333333333333333,2
+cap_roi__clahe,train_original,10,1.0,0.7,0.8,0.9100000000000001,1.0,2
+cap_roi__clahe,validation,5,1.0,0.6,0.8,0.8,0.8666666666666666,2
