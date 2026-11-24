@@ -1,0 +1,147 @@
+[
+  {
+    "model": "svm",
+    "variant": "center_gray",
+    "glcm_distance": 1,
+    "parameters": {
+      "kernel": "linear",
+      "C": 0.1
+    },
+    "metrics": {
+      "macro_f1": 0.4974747474747475,
+      "accuracy": 0.5,
+      "n": 20,
+      "per_class": {
+        "label_hilang": {
+          "precision": 0.5,
+          "recall": 0.6,
+          "f1": 0.5454545454545454,
+          "support": 5
+        },
+        "label_miring": {
+          "precision": 0.5,
+          "recall": 0.4,
+          "f1": 0.4444444444444444,
+          "support": 5
+        },
+        "normal": {
+          "precision": 0.4,
+          "recall": 0.4,
+          "f1": 0.4,
+          "support": 5
+        },
+        "penyok": {
+          "precision": 0.6,
+          "recall": 0.6,
+          "f1": 0.6,
+          "support": 5
+        }
+      },
+      "confusion_matrix": [
+        [
+          3,
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          1
+        ],
+        [
+          0,
+          0,
+          2,
+          3
+        ]
+      ],
+      "class_order": [
+        "label_hilang",
+        "label_miring",
+        "normal",
+        "penyok"
+      ]
+    }
+  },
+  {
+    "model": "xgboost",
+    "variant": "center_gray",
+    "glcm_distance": 1,
+    "parameters": {
+      "n_estimators": 80,
+      "max_depth": 2,
+      "learning_rate": 0.05
+    },
+    "metrics": {
+      "macro_f1": 0.5467032967032968,
+      "accuracy": 0.55,
+      "n": 20,
+      "per_class": {
+        "label_hilang": {
+          "precision": 0.6,
+          "recall": 0.6,
+          "f1": 0.6,
+          "support": 5
+        },
+        "label_miring": {
+          "precision": 0.4,
+          "recall": 0.4,
+          "f1": 0.4,
+          "support": 5
+        },
+        "normal": {
+          "precision": 1.0,
+          "recall": 0.4,
+          "f1": 0.5714285714285714,
+          "support": 5
+        },
+        "penyok": {
+          "precision": 0.5,
+          "recall": 0.8,
+          "f1": 0.6153846153846154,
+          "support": 5
+        }
+      },
+      "confusion_matrix": [
+        [
+          3,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          0,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          4
+        ]
+      ],
+      "class_order": [
+        "label_hilang",
+        "label_miring",
+        "normal",
+        "penyok"
+      ]
+    }
+  }
+]

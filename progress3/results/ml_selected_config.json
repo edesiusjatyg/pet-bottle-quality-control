@@ -1,0 +1,264 @@
+{
+  "dataset": {
+    "version": "v3",
+    "files": {
+      "metadata.csv": "f68b4001c0283a3a76a22c5e03cd670ba9f3f8bdcc7d1f13340977566af662ca",
+      "class_names.json": "23ef4f61928c6ed13ba6a9df45c67a01b2b2cd8fbc1687cac427bf23299c92e4",
+      "splits/train.csv": "494099ec317ee45f617278b8531ba2bd13bf575f892179fd4c699a8657f8407e",
+      "splits/val.csv": "8f914ac5c4016bc893df685c4cbb290b817bed557a4c2a0a3bd8b55e104fb0e4",
+      "splits/test.csv": "6a63d0d3a558c805e6bdff29f916d534b4a8e5d697a8f7c5b819658578610189"
+    },
+    "class_names": [
+      "label_hilang",
+      "label_miring",
+      "normal",
+      "penyok"
+    ]
+  },
+  "class_order": [
+    "label_hilang",
+    "label_miring",
+    "normal",
+    "penyok"
+  ],
+  "seed": 2026,
+  "pcd_variant": "center_gray",
+  "glcm_distance": 4,
+  "features": [
+    "edge_density",
+    "closed_edge_density",
+    "profile_valid_fraction",
+    "profile_width_median",
+    "profile_width_iqr",
+    "profile_width_0",
+    "profile_width_1",
+    "profile_width_2",
+    "profile_width_3",
+    "profile_width_4",
+    "profile_width_5",
+    "profile_width_6",
+    "profile_width_7",
+    "profile_width_8",
+    "profile_width_9",
+    "profile_left_0",
+    "profile_left_1",
+    "profile_left_2",
+    "profile_left_3",
+    "profile_left_4",
+    "profile_left_5",
+    "profile_left_6",
+    "profile_left_7",
+    "profile_left_8",
+    "profile_left_9",
+    "profile_right_0",
+    "profile_right_1",
+    "profile_right_2",
+    "profile_right_3",
+    "profile_right_4",
+    "profile_right_5",
+    "profile_right_6",
+    "profile_right_7",
+    "profile_right_8",
+    "profile_right_9",
+    "label_found",
+    "label_coverage",
+    "label_area_ratio",
+    "label_angle_relative_deg",
+    "label_angle_valid",
+    "glcm_contrast_h",
+    "glcm_homogeneity_h",
+    "glcm_asm_h",
+    "glcm_energy_h",
+    "glcm_contrast_v",
+    "glcm_homogeneity_v",
+    "glcm_asm_v",
+    "glcm_energy_v",
+    "gray_mean",
+    "gray_std",
+    "normal_width_deviation_0",
+    "normal_width_deviation_1",
+    "normal_width_deviation_2",
+    "normal_width_deviation_3",
+    "normal_width_deviation_4",
+    "normal_width_deviation_5",
+    "normal_width_deviation_6",
+    "normal_width_deviation_7",
+    "normal_width_deviation_8",
+    "normal_width_deviation_9",
+    "profile_dev_mean_abs",
+    "profile_dev_max_abs",
+    "profile_dev_fraction_over_03"
+  ],
+  "models": {
+    "svm": {
+      "parameters": {
+        "kernel": "rbf",
+        "C": 10,
+        "gamma": "scale"
+      },
+      "reference": {
+        "profile_width_0": 0.2773109243697479,
+        "profile_width_1": 0.28781512605042014,
+        "profile_width_2": 0.27450980392156865,
+        "profile_width_3": 0.28851540616246496,
+        "profile_width_4": 0.3081232492997199,
+        "profile_width_5": 0.24369747899159663,
+        "profile_width_6": 0.29411764705882354,
+        "profile_width_7": 0.3333333333333333,
+        "profile_width_8": 0.33403361344537813,
+        "profile_width_9": 0.4327731092436975
+      },
+      "model_path": "models/svm.joblib",
+      "model_sha256": "f001912907763a8663d5e6c3363fdae292e9c26fc6b86951b1a09b72eaafc1a8",
+      "validation": {
+        "macro_f1": 0.5527777777777778,
+        "accuracy": 0.55,
+        "n": 20,
+        "per_class": {
+          "label_hilang": {
+            "precision": 0.42857142857142855,
+            "recall": 0.6,
+            "f1": 0.5,
+            "support": 5
+          },
+          "label_miring": {
+            "precision": 0.5,
+            "recall": 0.4,
+            "f1": 0.4444444444444444,
+            "support": 5
+          },
+          "normal": {
+            "precision": 0.75,
+            "recall": 0.6,
+            "f1": 0.6666666666666666,
+            "support": 5
+          },
+          "penyok": {
+            "precision": 0.6,
+            "recall": 0.6,
+            "f1": 0.6,
+            "support": 5
+          }
+        },
+        "confusion_matrix": [
+          [
+            3,
+            1,
+            1,
+            0
+          ],
+          [
+            2,
+            2,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            3,
+            1
+          ],
+          [
+            2,
+            0,
+            0,
+            3
+          ]
+        ],
+        "class_order": [
+          "label_hilang",
+          "label_miring",
+          "normal",
+          "penyok"
+        ]
+      }
+    },
+    "xgboost": {
+      "parameters": {
+        "n_estimators": 160,
+        "max_depth": 2,
+        "learning_rate": 0.1
+      },
+      "reference": {
+        "profile_width_0": 0.2773109243697479,
+        "profile_width_1": 0.28781512605042014,
+        "profile_width_2": 0.27450980392156865,
+        "profile_width_3": 0.28851540616246496,
+        "profile_width_4": 0.3081232492997199,
+        "profile_width_5": 0.24369747899159663,
+        "profile_width_6": 0.29411764705882354,
+        "profile_width_7": 0.3333333333333333,
+        "profile_width_8": 0.33403361344537813,
+        "profile_width_9": 0.4327731092436975
+      },
+      "model_path": "models/xgboost.joblib",
+      "model_sha256": "d9dbc09ef571297932786517987e9ac3ee01180e4259d3911b11444b6a601cab",
+      "validation": {
+        "macro_f1": 0.6041666666666666,
+        "accuracy": 0.6,
+        "n": 20,
+        "per_class": {
+          "label_hilang": {
+            "precision": 0.5714285714285714,
+            "recall": 0.8,
+            "f1": 0.6666666666666666,
+            "support": 5
+          },
+          "label_miring": {
+            "precision": 0.6666666666666666,
+            "recall": 0.4,
+            "f1": 0.5,
+            "support": 5
+          },
+          "normal": {
+            "precision": 1.0,
+            "recall": 0.6,
+            "f1": 0.75,
+            "support": 5
+          },
+          "penyok": {
+            "precision": 0.42857142857142855,
+            "recall": 0.6,
+            "f1": 0.5,
+            "support": 5
+          }
+        },
+        "confusion_matrix": [
+          [
+            4,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            2,
+            0,
+            3
+          ],
+          [
+            1,
+            0,
+            3,
+            1
+          ],
+          [
+            2,
+            0,
+            0,
+            3
+          ]
+        ],
+        "class_order": [
+          "label_hilang",
+          "label_miring",
+          "normal",
+          "penyok"
+        ]
+      }
+    }
+  },
+  "test_evaluated": false,
+  "training_samples": 61
+}

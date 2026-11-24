@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "model": "svm",
+      "validation_predictions_reproduced": 20
+    },
+    {
+      "model": "xgboost",
+      "validation_predictions_reproduced": 20
+    },
+    {
+      "model": "dl_raw",
+      "validation_predictions_reproduced": 20
+    },
+    {
+      "model": "dl_pcd",
+      "validation_predictions_reproduced": 20
+    }
+  ],
+  "test_evaluated_by_verifier": false
+}

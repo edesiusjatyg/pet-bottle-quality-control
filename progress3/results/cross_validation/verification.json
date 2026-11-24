@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "folds": 5,
+  "oof_photos_per_model": 61,
+  "no_train_fold_validation_overlap": true,
+  "holdout_validation_used": false,
+  "test_used": false,
+  "supplementary_source_sha256": "f33348d8a11c1eca39d3bb0308f166eff98fdc7b423fe3fb1dddb7ef09373c04"
+}

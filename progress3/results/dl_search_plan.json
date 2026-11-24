@@ -1,0 +1,74 @@
+{
+  "dataset": {
+    "version": "v3",
+    "files": {
+      "metadata.csv": "f68b4001c0283a3a76a22c5e03cd670ba9f3f8bdcc7d1f13340977566af662ca",
+      "class_names.json": "23ef4f61928c6ed13ba6a9df45c67a01b2b2cd8fbc1687cac427bf23299c92e4",
+      "splits/train.csv": "494099ec317ee45f617278b8531ba2bd13bf575f892179fd4c699a8657f8407e",
+      "splits/val.csv": "8f914ac5c4016bc893df685c4cbb290b817bed557a4c2a0a3bd8b55e104fb0e4",
+      "splits/test.csv": "6a63d0d3a558c805e6bdff29f916d534b4a8e5d697a8f7c5b819658578610189"
+    },
+    "class_names": [
+      "label_hilang",
+      "label_miring",
+      "normal",
+      "penyok"
+    ]
+  },
+  "grid": [
+    {
+      "lr": 0.001,
+      "dropout": 0.2,
+      "weight_decay": 0.0
+    },
+    {
+      "lr": 0.001,
+      "dropout": 0.2,
+      "weight_decay": 0.001
+    },
+    {
+      "lr": 0.001,
+      "dropout": 0.4,
+      "weight_decay": 0.0
+    },
+    {
+      "lr": 0.001,
+      "dropout": 0.4,
+      "weight_decay": 0.001
+    },
+    {
+      "lr": 0.003,
+      "dropout": 0.2,
+      "weight_decay": 0.0
+    },
+    {
+      "lr": 0.003,
+      "dropout": 0.2,
+      "weight_decay": 0.001
+    },
+    {
+      "lr": 0.003,
+      "dropout": 0.4,
+      "weight_decay": 0.0
+    },
+    {
+      "lr": 0.003,
+      "dropout": 0.4,
+      "weight_decay": 0.001
+    }
+  ],
+  "backbone": "torchvision MobileNetV3-Large IMAGENET1K_V2",
+  "training": "frozen_backbone_cached_features",
+  "device": "cpu",
+  "epochs": 20,
+  "patience": 5,
+  "batch_size": 32,
+  "augmentation_copies": 3,
+  "normalization": "ImageNet mean/std after /255",
+  "seed": 2026,
+  "pcd_variant": "center_gray",
+  "selection": "One common hyperparameter set maximizes mean validation macro-F1 across raw and pcd.",
+  "checkpoint_rule": "max validation macro-F1, then min validation cross-entropy; early stop on no improvement",
+  "fine_tuning_backbone": false,
+  "test_used": false
+}

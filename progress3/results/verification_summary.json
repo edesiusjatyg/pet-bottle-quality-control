@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "unit_test_count": 11,
+  "unit_command": "python -m unittest discover -s tests -v",
+  "regression_test_source_sha256": "43761c311b4a84cee1484501e873541247b444ceb7d3883846645ffe002a2f24",
+  "checkpoint_reproduction": {
+    "passed": true,
+    "checks": [
+      {
+        "model": "svm",
+        "validation_predictions_reproduced": 20
+      },
+      {
+        "model": "xgboost",
+        "validation_predictions_reproduced": 20
+      },
+      {
+        "model": "dl_raw",
+        "validation_predictions_reproduced": 20
+      },
+      {
+        "model": "dl_pcd",
+        "validation_predictions_reproduced": 20
+      }
+    ],
+    "test_evaluated_by_verifier": false
+  },
+  "end_to_end_cli_smoke_status": {
+    "status": "completed",
+    "stage": "all",
+    "elapsed_seconds": 32.084620089000055,
+    "test_evaluated": false
+  },
+  "end_to_end_cli_smoke_options": {
+    "stage": "all",
+    "data": "/workspace/scratch/e4ed7346e896/dataset_work/comvis_dataset_v3",
+    "output": "/workspace/scratch/e4ed7346e896/progress3_cli_smoke",
+    "device": "auto",
+    "epochs": 2,
+    "patience": 1,
+    "batch_size": 16,
+    "augmentation_copies": 0,
+    "glcm_distances": [
+      1
+    ],
+    "importance_repeats": 1,
+    "backbone": "/workspace/scratch/e4ed7346e896/progress3/results/models/backbone_imagenet_v2.pt",
+    "evaluate_test": false
+  },
+  "smoke_run_is_not_the_final_scoring_run": true,
+  "gpu_execution_tested": false,
+  "actual_scoring_device": "cpu"
+}

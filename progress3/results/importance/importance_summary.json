@@ -1,0 +1,250 @@
+{
+  "analysis_split": "val",
+  "samples": 20,
+  "test_used": false,
+  "models_refitted": false,
+  "metric": "macro_f1_decrease",
+  "permutation_repeats": 20,
+  "seed": 2026,
+  "ml_method": "single and grouped feature permutation through fitted pipeline",
+  "dl_global_method": "exact single-channel permutation of 960 pooled features through the frozen linear head",
+  "dl_local_method": "Grad-CAM at final convolution, target predicted class, 224 input coordinate space",
+  "gradcam_selection": "first examples per validation class plus all main-DL validation errors",
+  "cautions": [
+    "Validation has only 20 photos; means/std are perturbation variability, not confidence intervals.",
+    "Correlated features can mask single-feature importance; grouped results complement them.",
+    "Channel IDs have no guaranteed human semantic meaning.",
+    "Grad-CAM is coarse and is not a defect mask or causal explanation.",
+    "No selected configuration is changed using these post-hoc importance results."
+  ],
+  "summary": {
+    "svm": {
+      "top_features": [
+        {
+          "feature": "profile_width_9",
+          "importance_mean": 0.09022727272727275,
+          "importance_std": 0.020138647444801993,
+          "baseline_macro_f1": 0.5527777777777778,
+          "repeats": 20,
+          "columns": "[\"profile_width_9\"]"
+        },
+        {
+          "feature": "normal_width_deviation_9",
+          "importance_mean": 0.09022727272727275,
+          "importance_std": 0.020138647444801993,
+          "baseline_macro_f1": 0.5527777777777778,
+          "repeats": 20,
+          "columns": "[\"normal_width_deviation_9\"]"
+        },
+        {
+          "feature": "profile_right_9",
+          "importance_mean": 0.09022727272727275,
+          "importance_std": 0.020138647444801993,
+          "baseline_macro_f1": 0.5527777777777778,
+          "repeats": 20,
+          "columns": "[\"profile_right_9\"]"
+        },
+        {
+          "feature": "profile_left_9",
+          "importance_mean": 0.08994949494949497,
+          "importance_std": 0.021201536560717844,
+          "baseline_macro_f1": 0.5527777777777778,
+          "repeats": 20,
+          "columns": "[\"profile_left_9\"]"
+        },
+        {
+          "feature": "profile_left_5",
+          "importance_mean": 0.0775505050505051,
+          "importance_std": 0.022665446207622612,
+          "baseline_macro_f1": 0.5527777777777778,
+          "repeats": 20,
+          "columns": "[\"profile_left_5\"]"
+        }
+      ],
+      "grouped_importance": [
+        {
+          "feature": "bentuk_dan_deviasi_normal",
+          "importance_mean": 0.2902975496725497,
+          "importance_std": 0.09724049057037625,
+          "baseline_macro_f1": 0.5527777777777778,
+          "repeats": 20,
+          "columns": "[\"edge_density\", \"closed_edge_density\", \"profile_valid_fraction\", \"profile_width_median\", \"profile_width_iqr\", \"profile_width_0\", \"profile_width_1\", \"profile_width_2\", \"profile_width_3\", \"profile_width_4\", \"profile_width_5\", \"profile_width_6\", \"profile_width_7\", \"profile_width_8\", \"profile_width_9\", \"profile_left_0\", \"profile_left_1\", \"profile_left_2\", \"profile_left_3\", \"profile_left_4\", \"profile_left_5\", \"profile_left_6\", \"profile_left_7\", \"profile_left_8\", \"profile_left_9\", \"profile_right_0\", \"profile_right_1\", \"profile_right_2\", \"profile_right_3\", \"profile_right_4\", \"profile_right_5\", \"profile_right_6\", \"profile_right_7\", \"profile_right_8\", \"profile_right_9\", \"normal_width_deviation_0\", \"normal_width_deviation_1\", \"normal_width_deviation_2\", \"normal_width_deviation_3\", \"normal_width_deviation_4\", \"normal_width_deviation_5\", \"normal_width_deviation_6\", \"normal_width_deviation_7\", \"normal_width_deviation_8\", \"normal_width_deviation_9\", \"profile_dev_mean_abs\", \"profile_dev_max_abs\", \"profile_dev_fraction_over_03\"]"
+        },
+        {
+          "feature": "label",
+          "importance_mean": 0.0,
+          "importance_std": 0.0,
+          "baseline_macro_f1": 0.5527777777777778,
+          "repeats": 20,
+          "columns": "[\"label_found\", \"label_coverage\", \"label_area_ratio\", \"label_angle_relative_deg\", \"label_angle_valid\"]"
+        },
+        {
+          "feature": "tekstur_dan_intensitas",
+          "importance_mean": 0.08476884226884232,
+          "importance_std": 0.04266253369120024,
+          "baseline_macro_f1": 0.5527777777777778,
+          "repeats": 20,
+          "columns": "[\"glcm_contrast_h\", \"glcm_homogeneity_h\", \"glcm_asm_h\", \"glcm_energy_h\", \"glcm_contrast_v\", \"glcm_homogeneity_v\", \"glcm_asm_v\", \"glcm_energy_v\", \"gray_mean\", \"gray_std\"]"
+        }
+      ]
+    },
+    "xgboost": {
+      "top_features": [
+        {
+          "feature": "glcm_contrast_h",
+          "importance_mean": 0.14080169830169825,
+          "importance_std": 0.07947046774854455,
+          "baseline_macro_f1": 0.6041666666666666,
+          "repeats": 20,
+          "columns": "[\"glcm_contrast_h\"]"
+        },
+        {
+          "feature": "label_coverage",
+          "importance_mean": 0.09379370629370624,
+          "importance_std": 0.05776502533012349,
+          "baseline_macro_f1": 0.6041666666666666,
+          "repeats": 20,
+          "columns": "[\"label_coverage\"]"
+        },
+        {
+          "feature": "profile_width_5",
+          "importance_mean": 0.03979353979353979,
+          "importance_std": 0.023641742062663614,
+          "baseline_macro_f1": 0.6041666666666666,
+          "repeats": 20,
+          "columns": "[\"profile_width_5\"]"
+        },
+        {
+          "feature": "glcm_asm_v",
+          "importance_mean": 0.03865412365412364,
+          "importance_std": 0.05017671456644584,
+          "baseline_macro_f1": 0.6041666666666666,
+          "repeats": 20,
+          "columns": "[\"glcm_asm_v\"]"
+        },
+        {
+          "feature": "gray_std",
+          "importance_mean": 0.021703296703296716,
+          "importance_std": 0.026581001329652635,
+          "baseline_macro_f1": 0.6041666666666666,
+          "repeats": 20,
+          "columns": "[\"gray_std\"]"
+        }
+      ],
+      "grouped_importance": [
+        {
+          "feature": "bentuk_dan_deviasi_normal",
+          "importance_mean": 0.10690691253191247,
+          "importance_std": 0.06647166281791805,
+          "baseline_macro_f1": 0.6041666666666666,
+          "repeats": 20,
+          "columns": "[\"edge_density\", \"closed_edge_density\", \"profile_valid_fraction\", \"profile_width_median\", \"profile_width_iqr\", \"profile_width_0\", \"profile_width_1\", \"profile_width_2\", \"profile_width_3\", \"profile_width_4\", \"profile_width_5\", \"profile_width_6\", \"profile_width_7\", \"profile_width_8\", \"profile_width_9\", \"profile_left_0\", \"profile_left_1\", \"profile_left_2\", \"profile_left_3\", \"profile_left_4\", \"profile_left_5\", \"profile_left_6\", \"profile_left_7\", \"profile_left_8\", \"profile_left_9\", \"profile_right_0\", \"profile_right_1\", \"profile_right_2\", \"profile_right_3\", \"profile_right_4\", \"profile_right_5\", \"profile_right_6\", \"profile_right_7\", \"profile_right_8\", \"profile_right_9\", \"normal_width_deviation_0\", \"normal_width_deviation_1\", \"normal_width_deviation_2\", \"normal_width_deviation_3\", \"normal_width_deviation_4\", \"normal_width_deviation_5\", \"normal_width_deviation_6\", \"normal_width_deviation_7\", \"normal_width_deviation_8\", \"normal_width_deviation_9\", \"profile_dev_mean_abs\", \"profile_dev_max_abs\", \"profile_dev_fraction_over_03\"]"
+        },
+        {
+          "feature": "label",
+          "importance_mean": 0.09379370629370624,
+          "importance_std": 0.05776502533012349,
+          "baseline_macro_f1": 0.6041666666666666,
+          "repeats": 20,
+          "columns": "[\"label_found\", \"label_coverage\", \"label_area_ratio\", \"label_angle_relative_deg\", \"label_angle_valid\"]"
+        },
+        {
+          "feature": "tekstur_dan_intensitas",
+          "importance_mean": 0.2400191475191475,
+          "importance_std": 0.10279096048860824,
+          "baseline_macro_f1": 0.6041666666666666,
+          "repeats": 20,
+          "columns": "[\"glcm_contrast_h\", \"glcm_homogeneity_h\", \"glcm_asm_h\", \"glcm_energy_h\", \"glcm_contrast_v\", \"glcm_homogeneity_v\", \"glcm_asm_v\", \"glcm_energy_v\", \"gray_mean\", \"gray_std\"]"
+        }
+      ]
+    },
+    "dl_raw": {
+      "top_channels": [
+        {
+          "feature": "channel_000",
+          "channel": 0,
+          "importance_mean": 0.0,
+          "importance_std": 0.0,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        },
+        {
+          "feature": "channel_001",
+          "channel": 1,
+          "importance_mean": 0.0,
+          "importance_std": 0.0,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        },
+        {
+          "feature": "channel_002",
+          "channel": 2,
+          "importance_mean": 0.0,
+          "importance_std": 0.0,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        },
+        {
+          "feature": "channel_003",
+          "channel": 3,
+          "importance_mean": 0.0,
+          "importance_std": 0.0,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        },
+        {
+          "feature": "channel_004",
+          "channel": 4,
+          "importance_mean": 0.0,
+          "importance_std": 0.0,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        }
+      ]
+    },
+    "dl_pcd": {
+      "top_channels": [
+        {
+          "feature": "channel_847",
+          "channel": 847,
+          "importance_mean": 0.02010732323232322,
+          "importance_std": 0.02740166266696402,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        },
+        {
+          "feature": "channel_758",
+          "channel": 758,
+          "importance_mean": 0.02010732323232322,
+          "importance_std": 0.02740166266696402,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        },
+        {
+          "feature": "channel_625",
+          "channel": 625,
+          "importance_mean": 0.02010732323232322,
+          "importance_std": 0.02740166266696402,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        },
+        {
+          "feature": "channel_172",
+          "channel": 172,
+          "importance_mean": 0.017234848484848474,
+          "importance_std": 0.026326665924304368,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        },
+        {
+          "feature": "channel_833",
+          "channel": 833,
+          "importance_mean": 0.01436237373737373,
+          "importance_std": 0.024876361030424197,
+          "baseline_macro_f1": 0.9494949494949495,
+          "repeats": 20
+        }
+      ]
+    }
+  }
+}

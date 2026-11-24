@@ -1,0 +1,21 @@
+{
+  "evaluated_at_utc": "2026-11-24T07:50:20.145059+00:00",
+  "dataset": {
+    "version": "v3",
+    "files": {
+      "metadata.csv": "f68b4001c0283a3a76a22c5e03cd670ba9f3f8bdcc7d1f13340977566af662ca",
+      "class_names.json": "23ef4f61928c6ed13ba6a9df45c67a01b2b2cd8fbc1687cac427bf23299c92e4",
+      "splits/train.csv": "494099ec317ee45f617278b8531ba2bd13bf575f892179fd4c699a8657f8407e",
+      "splits/val.csv": "8f914ac5c4016bc893df685c4cbb290b817bed557a4c2a0a3bd8b55e104fb0e4",
+      "splits/test.csv": "6a63d0d3a558c805e6bdff29f916d534b4a8e5d697a8f7c5b819658578610189"
+    },
+    "class_names": [
+      "label_hilang",
+      "label_miring",
+      "normal",
+      "penyok"
+    ]
+  },
+  "selection_lock_sha256": "314a6f1dd7b3262f5551c58cdef11afaea8ff136a4de75be55e1389511c72140",
+  "model_count": 4
+}

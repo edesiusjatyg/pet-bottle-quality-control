@@ -1,0 +1,63 @@
+{
+  "macro_f1": 0.5527777777777778,
+  "accuracy": 0.55,
+  "n": 20,
+  "per_class": {
+    "label_hilang": {
+      "precision": 0.42857142857142855,
+      "recall": 0.6,
+      "f1": 0.5,
+      "support": 5
+    },
+    "label_miring": {
+      "precision": 0.5,
+      "recall": 0.4,
+      "f1": 0.4444444444444444,
+      "support": 5
+    },
+    "normal": {
+      "precision": 0.75,
+      "recall": 0.6,
+      "f1": 0.6666666666666666,
+      "support": 5
+    },
+    "penyok": {
+      "precision": 0.6,
+      "recall": 0.6,
+      "f1": 0.6,
+      "support": 5
+    }
+  },
+  "confusion_matrix": [
+    [
+      3,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      2,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      3,
+      1
+    ],
+    [
+      2,
+      0,
+      0,
+      3
+    ]
+  ],
+  "class_order": [
+    "label_hilang",
+    "label_miring",
+    "normal",
+    "penyok"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "purpose": "post_hoc_fixed_configuration_stability_check",
+  "split_used": "train only",
+  "primary_photos": 61,
+  "folds": 5,
+  "shuffle": true,
+  "seed": 2026,
+  "device": "cpu",
+  "dataset": {
+    "version": "v3",
+    "files": {
+      "metadata.csv": "f68b4001c0283a3a76a22c5e03cd670ba9f3f8bdcc7d1f13340977566af662ca",
+      "class_names.json": "23ef4f61928c6ed13ba6a9df45c67a01b2b2cd8fbc1687cac427bf23299c92e4",
+      "splits/train.csv": "494099ec317ee45f617278b8531ba2bd13bf575f892179fd4c699a8657f8407e",
+      "splits/val.csv": "8f914ac5c4016bc893df685c4cbb290b817bed557a4c2a0a3bd8b55e104fb0e4",
+      "splits/test.csv": "6a63d0d3a558c805e6bdff29f916d534b4a8e5d697a8f7c5b819658578610189"
+    },
+    "class_names": [
+      "label_hilang",
+      "label_miring",
+      "normal",
+      "penyok"
+    ]
+  },
+  "pcd_variant": "center_gray",
+  "glcm_distance": 4,
+  "ml_parameters": {
+    "svm": {
+      "kernel": "rbf",
+      "C": 10,
+      "gamma": "scale"
+    },
+    "xgboost": {
+      "n_estimators": 160,
+      "max_depth": 2,
+      "learning_rate": 0.1
+    }
+  },
+  "dl_parameters": {
+    "lr": 0.003,
+    "dropout": 0.2,
+    "weight_decay": 0.0
+  },
+  "dl_fixed_epochs": 18,
+  "dl_epoch_rule": "Fixed before folds from main validation-selected checkpoints; no held-out-fold early stopping.",
+  "heldout_validation20_used_in_this_analysis": false,
+  "test21_used": false,
+  "main_models_changed": false,
+  "normal_reference_imputer_scaler_refitted_inside_each_fold": true,
+  "augmentation_parent_fold_exclusivity": true,
+  "limitations": [
+    "Configurations and PCD were previously selected using the main holdout protocol; this is descriptive conditional CV, not nested CV or an unbiased new test.",
+    "Folds are stratified per photo and do not establish independent physical bottles."
+  ]
+}

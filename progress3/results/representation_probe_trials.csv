@@ -1,0 +1,9 @@
+representation,classifier,C,train_originals,dimensions,macro_f1,accuracy
+mobilenet_raw,linear_svm,0.01,61,960,0.8999999999999999,0.9
+mobilenet_raw,linear_svm,0.1,61,960,0.8999999999999999,0.9
+mobilenet_raw,linear_svm,1.0,61,960,0.8999999999999999,0.9
+mobilenet_raw,linear_svm,10.0,61,960,0.8999999999999999,0.9
+mobilenet_pcd,linear_svm,0.01,61,960,0.8540404040404039,0.85
+mobilenet_pcd,linear_svm,0.1,61,960,0.8540404040404039,0.85
+mobilenet_pcd,linear_svm,1.0,61,960,0.8540404040404039,0.85
+mobilenet_pcd,linear_svm,10.0,61,960,0.8540404040404039,0.85

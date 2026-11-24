@@ -1,0 +1,32 @@
+{
+  "argv": [
+    "run.py",
+    "test",
+    "--data",
+    "/workspace/scratch/e4ed7346e896/dataset_work/comvis_dataset_v3",
+    "--output",
+    "results",
+    "--device",
+    "cpu"
+  ],
+  "options": {
+    "stage": "test",
+    "data": "/workspace/scratch/e4ed7346e896/dataset_work/comvis_dataset_v3",
+    "output": "results",
+    "device": "cpu",
+    "epochs": 20,
+    "patience": 5,
+    "batch_size": 32,
+    "augmentation_copies": 3,
+    "glcm_distances": [
+      1,
+      2,
+      4
+    ],
+    "importance_repeats": 20,
+    "backbone": null,
+    "evaluate_test": false
+  },
+  "resolved_dataset": "/workspace/scratch/e4ed7346e896/dataset_work/comvis_dataset_v3",
+  "resolved_output": "/workspace/scratch/e4ed7346e896/progress3/results"
+}

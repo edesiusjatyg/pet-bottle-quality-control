@@ -1,0 +1,8 @@
+{
+  "val": {
+    "delta_macro_f1_pcd_minus_raw": 0.0
+  },
+  "test": {
+    "delta_macro_f1_pcd_minus_raw": 0.008658008658008698
+  }
+}

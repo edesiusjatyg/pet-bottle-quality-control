@@ -1,0 +1,45 @@
+{
+  "argv": [
+    "run.py",
+    "all",
+    "--data",
+    "/workspace/scratch/e4ed7346e896/dataset_work/comvis_dataset_v3",
+    "--output",
+    "/workspace/scratch/e4ed7346e896/progress3/results",
+    "--device",
+    "cpu",
+    "--epochs",
+    "20",
+    "--patience",
+    "5",
+    "--batch-size",
+    "32",
+    "--augmentation-copies",
+    "3",
+    "--glcm-distances",
+    "1",
+    "2",
+    "4",
+    "--backbone",
+    "/workspace/scratch/e4ed7346e896/progress3_initial_d1_results/models/backbone_imagenet_v2.pt"
+  ],
+  "options": {
+    "stage": "all",
+    "data": "/workspace/scratch/e4ed7346e896/dataset_work/comvis_dataset_v3",
+    "output": "/workspace/scratch/e4ed7346e896/progress3/results",
+    "device": "cpu",
+    "epochs": 20,
+    "patience": 5,
+    "batch_size": 32,
+    "augmentation_copies": 3,
+    "glcm_distances": [
+      1,
+      2,
+      4
+    ],
+    "backbone": "/workspace/scratch/e4ed7346e896/progress3_initial_d1_results/models/backbone_imagenet_v2.pt",
+    "evaluate_test": false
+  },
+  "resolved_dataset": "/workspace/scratch/e4ed7346e896/dataset_work/comvis_dataset_v3",
+  "resolved_output": "/workspace/scratch/e4ed7346e896/progress3/results"
+}

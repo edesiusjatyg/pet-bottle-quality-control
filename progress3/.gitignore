@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+data/
+*.zip
+results/cache/
+results/models/*.pt
+results/models/*.joblib
